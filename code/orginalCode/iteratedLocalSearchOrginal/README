@@ -1,0 +1,73 @@
+********************************************************
+Node of TUDarmstadt
+
+Implementation of ILS for Timetabling Problem
+
+Author: Luis Paquete
+e-mail: lpaquete@intellektik.informatik.tu-darmstadt.de
+********************************************************
+
+
+1. SINTAX
+********************************************************
+timetabling.ils.de.1 -i [File input] -o [File ouput] -p [Problem Type <1:soft|2:medium|3:hard>] -n [Number Tries] -t [TimeLimit] -s [RandomSeed]
+
+The problem type defines the parameters of ILS
+
+Ex: timetabling.ils.de.1 -i 1.dat -o output.dat -p 1 -n 1 -t 90 -s 20202
+corresponds to:
+ instance: 1.dat
+ output file: output.dat
+ problem size: easy
+ number of tries: 1
+ time limit: 90 sec.
+ random seed: 20202
+
+With exception of -o parameter, all remaining should be inserted at command line.
+********************************************************
+
+
+2. FILES
+********************************************************
+Only file ILS was added. All remaining file are the same, with exception of
+Solution.cpp, Solution.h and Control.h (see section 3)
+********************************************************
+
+
+3. CHANGES IN THE ORIGINAL CODE
+********************************************************
+- Solution.cpp:
+  
+  In localSearch() : remove of default value (999999) for LS_limit 
+
+- Solution.h:
+
+  In localSearch() : remove of default value (999999) for LS_limit 
+
+- Control.h:
+
+  Change of timeLimit from private to public (to cut local search in ils.cpp in case it goes beyond the defined time limit)
+  Change of problemType from private to public (to access it in ils.cpp)
+  Change of maxSteps from private to public (to access it in ils.cpp)
+********************************************************
+
+
+4. NOTES
+********************************************************
+The maximum number of steps of local search is set by default to a huge number.
+Any modification of this parameter would change the desired behaviour
+********************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+

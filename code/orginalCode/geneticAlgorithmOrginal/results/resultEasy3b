@@ -1,0 +1,1269 @@
+begin try 1
+best 139 time 0.034636
+best 128 time 0.037759
+best 126 time 0.046502
+best 112 time 0.069352
+best 94 time 0.075117
+best 80 time 0.083801
+best 58 time 0.089352
+best 51 time 0.103992
+best 49 time 0.121989
+best 47 time 0.137204
+best 45 time 0.140215
+best 43 time 0.142944
+best 36 time 0.151600
+best 31 time 0.163588
+best 28 time 0.169365
+best 27 time 0.186701
+best 25 time 0.230867
+best 23 time 0.265210
+best 22 time 0.280345
+best 21 time 0.292124
+best 19 time 0.357176
+best 17 time 0.799392
+best 15 time 0.824673
+best 14 time 1.457807
+best 12 time 4.214194
+best 11 time 6.459579
+best 10 time 7.890251
+best 9 time 8.143955
+best 8 time 19.703660
+best 7 time 71.272257
+begin solution 1
+feasible: evaluation function = 7
+5 20 23 41 43 13 20 15 19 16 0 12 30 10 13 33 2 41 3 21 6 13 15 41 4 7 3 37 13 32 23 19 21 33 29 36 15 28 16 33 30 28 36 20 5 37 10 24 23 27 1 20 3 11 42 18 25 36 22 24 25 15 31 23 36 30 31 9 12 40 4 18 10 40 16 15 9 21 6 31 2 18 7 39 19 32 32 27 18 28 23 34 32 24 42 2 21 22 9 27 
+3 2 2 0 0 2 0 0 0 3 0 0 3 1 1 0 3 1 0 1 1 0 3 3 2 3 3 2 3 2 0 2 0 2 3 3 2 0 0 1 0 1 1 3 2 0 3 3 4 2 3 1 2 2 2 0 1 2 0 0 2 4 1 3 0 2 2 2 2 0 1 2 0 2 2 1 0 3 0 0 1 1 0 0 3 4 0 0 3 2 1 0 3 2 0 0 2 2 1 1 
+end solution 1
+end try 1
+begin try 2
+best 134 time 0.028007
+best 129 time 0.031270
+best 122 time 0.048185
+best 102 time 0.059884
+best 85 time 0.066078
+best 74 time 0.068945
+best 73 time 0.072211
+best 60 time 0.092687
+best 57 time 0.104265
+best 55 time 0.116250
+best 43 time 0.125477
+best 39 time 0.138263
+best 35 time 0.140985
+best 34 time 0.156194
+best 25 time 0.158976
+best 23 time 0.165598
+best 22 time 0.171736
+best 21 time 0.181169
+best 20 time 0.194531
+best 19 time 0.246066
+best 18 time 0.272515
+best 17 time 0.290779
+best 16 time 0.422456
+best 15 time 3.024226
+best 14 time 7.229798
+best 13 time 7.289227
+best 12 time 14.236977
+best 11 time 17.473671
+best 10 time 17.483157
+best 9 time 74.755589
+best 8 time 74.818625
+best 7 time 79.549617
+begin solution 2
+feasible: evaluation function = 7
+39 36 37 41 0 10 30 40 14 20 31 42 0 37 9 37 13 7 42 25 41 43 10 36 12 32 27 32 19 28 22 32 28 32 33 34 25 2 2 34 27 18 6 41 43 0 3 7 10 40 14 6 7 4 29 36 18 3 39 41 30 30 5 19 6 28 16 28 19 1 27 5 29 21 14 1 16 37 28 33 26 23 40 15 39 36 38 24 21 33 36 34 11 39 11 41 6 27 25 25 
+3 2 2 4 3 2 0 0 0 0 0 0 2 1 1 0 3 1 2 1 1 0 3 1 2 3 3 0 0 2 0 4 0 2 3 3 0 0 2 1 0 0 1 3 2 0 3 3 0 2 3 3 2 2 2 0 1 2 0 0 2 3 1 1 0 3 2 1 2 0 1 2 0 2 2 1 0 3 4 0 1 1 1 0 4 4 0 0 0 2 3 0 2 2 0 2 2 2 2 3 
+end solution 2
+end try 2
+begin try 3
+best 140 time 0.029218
+best 110 time 0.038137
+best 97 time 0.041312
+best 94 time 0.044178
+best 72 time 0.047253
+best 71 time 0.062016
+best 70 time 0.064783
+best 64 time 0.067752
+best 61 time 0.073052
+best 56 time 0.087255
+best 52 time 0.112854
+best 48 time 0.115632
+best 40 time 0.118750
+best 39 time 0.136355
+best 37 time 0.139359
+best 31 time 0.157958
+best 27 time 0.166820
+best 25 time 0.191134
+best 19 time 0.215171
+best 18 time 0.232486
+best 17 time 0.273580
+best 16 time 0.276455
+best 15 time 0.328160
+best 14 time 0.628496
+best 13 time 1.136552
+best 12 time 1.318718
+best 10 time 1.359334
+best 9 time 3.508984
+best 8 time 6.227804
+best 7 time 7.980746
+best 6 time 8.213183
+best 5 time 9.079592
+best 4 time 9.320953
+best 3 time 13.146837
+begin solution 3
+feasible: evaluation function = 3
+27 9 41 2 5 4 27 34 40 7 3 22 7 0 5 41 38 38 6 37 42 32 2 41 0 1 39 43 4 2 29 0 38 36 14 13 0 39 30 41 9 1 14 42 25 30 31 9 36 42 12 31 28 29 16 36 28 6 5 39 16 12 25 18 10 5 7 6 4 43 19 33 10 18 11 18 37 38 7 1 26 43 5 43 27 1 20 42 43 37 40 23 16 40 15 39 3 27 2 3 
+3 2 2 0 4 2 0 0 0 0 0 0 4 1 1 0 3 1 0 1 1 0 3 1 2 3 3 2 3 2 0 0 0 2 3 3 3 2 2 3 0 1 1 3 2 0 3 3 1 2 3 1 2 2 0 0 1 2 0 0 2 0 1 1 2 2 2 1 0 0 1 2 0 2 2 3 0 2 3 0 1 1 3 4 4 2 0 0 3 2 1 0 3 2 0 1 2 2 1 1 
+end solution 3
+end try 3
+begin try 4
+best 150 time 0.028555
+best 133 time 0.031252
+best 130 time 0.037162
+best 126 time 0.040224
+best 110 time 0.042916
+best 105 time 0.048740
+best 101 time 0.054625
+best 93 time 0.065997
+best 90 time 0.068924
+best 82 time 0.074645
+best 72 time 0.077750
+best 71 time 0.095292
+best 68 time 0.097894
+best 66 time 0.106926
+best 64 time 0.109815
+best 56 time 0.115641
+best 54 time 0.130428
+best 51 time 0.139260
+best 48 time 0.141916
+best 41 time 0.163758
+best 40 time 0.214638
+best 36 time 0.217605
+best 33 time 0.223669
+best 32 time 0.237884
+best 30 time 0.247229
+best 28 time 0.256012
+best 26 time 0.283033
+best 25 time 0.299840
+best 22 time 0.314472
+best 21 time 0.328475
+best 19 time 0.334526
+best 18 time 0.354462
+best 17 time 0.386757
+best 16 time 0.481493
+best 15 time 1.731793
+best 14 time 2.752774
+best 12 time 2.790700
+best 11 time 3.196294
+best 10 time 4.509703
+best 9 time 5.255304
+best 7 time 6.583104
+best 6 time 8.701350
+best 5 time 26.519377
+best 4 time 33.396461
+best 3 time 58.080979
+begin solution 4
+feasible: evaluation function = 3
+27 0 14 0 10 25 25 14 41 3 13 33 39 5 38 15 30 23 20 15 7 19 5 29 22 19 6 39 25 39 4 22 43 21 4 2 42 12 18 27 9 18 12 0 32 30 16 15 19 1 21 19 34 19 18 21 34 28 20 22 24 21 0 40 36 28 38 34 6 10 43 31 24 33 36 36 38 3 11 24 31 43 12 16 31 23 29 37 34 27 33 7 28 3 18 16 40 9 5 44 
+3 2 2 0 2 2 0 0 0 0 0 0 3 1 1 0 3 1 2 1 1 0 3 1 2 3 3 0 3 2 0 3 0 2 3 3 0 0 2 1 0 1 1 3 2 0 3 3 4 2 3 1 2 2 3 0 1 2 0 0 2 4 1 1 0 0 2 0 0 0 1 2 0 2 2 1 0 1 0 3 1 3 2 0 0 0 0 0 3 2 1 0 3 2 0 1 2 2 0 1 
+end solution 4
+end try 4
+begin try 5
+best 121 time 0.028460
+best 111 time 0.037292
+best 94 time 0.042844
+best 93 time 0.045816
+best 75 time 0.048731
+best 74 time 0.051546
+best 63 time 0.054329
+best 55 time 0.063113
+best 50 time 0.075405
+best 49 time 0.078283
+best 48 time 0.084203
+best 39 time 0.089981
+best 34 time 0.093103
+best 33 time 0.098600
+best 32 time 0.101224
+best 31 time 0.104170
+best 30 time 0.113156
+best 29 time 0.158737
+best 27 time 0.173244
+best 25 time 0.179140
+best 24 time 0.184559
+best 22 time 0.512751
+best 21 time 0.532918
+best 18 time 0.606838
+best 17 time 0.649221
+best 16 time 0.659247
+best 15 time 1.875231
+best 14 time 1.904552
+best 13 time 1.969948
+best 12 time 2.727453
+best 11 time 4.754585
+best 10 time 6.360169
+best 9 time 6.418785
+best 8 time 7.026637
+best 7 time 10.168881
+best 6 time 16.595139
+best 5 time 21.132959
+best 4 time 24.137272
+begin solution 5
+feasible: evaluation function = 4
+27 5 38 11 30 1 14 16 12 29 25 18 9 16 1 20 10 40 24 15 44 0 0 11 10 40 18 21 20 16 5 1 7 6 21 3 28 9 33 13 36 36 42 37 28 24 30 41 9 31 7 36 23 25 14 42 18 19 41 10 29 24 2 16 9 32 33 9 6 19 31 27 39 24 0 30 23 37 40 27 19 14 15 23 15 42 22 31 10 3 11 4 12 2 43 22 7 14 7 26 
+3 2 2 0 0 2 0 0 0 0 0 0 4 1 1 0 3 1 3 1 1 0 3 1 2 3 3 0 2 2 0 0 0 2 3 3 0 2 0 1 0 2 1 3 2 0 3 3 1 2 3 1 2 2 3 0 1 2 0 0 2 4 1 3 3 0 2 0 0 0 1 2 0 2 2 1 0 0 0 0 1 1 0 3 2 2 0 0 1 2 3 0 2 2 0 1 2 2 1 1 
+end solution 5
+end try 5
+begin try 6
+best 157 time 0.028631
+best 138 time 0.031542
+best 128 time 0.037219
+best 113 time 0.043333
+best 93 time 0.046086
+best 85 time 0.055150
+best 72 time 0.061561
+best 70 time 0.070974
+best 69 time 0.076673
+best 61 time 0.079496
+best 60 time 0.097164
+best 54 time 0.100254
+best 48 time 0.115026
+best 41 time 0.117855
+best 40 time 0.151076
+best 37 time 0.160573
+best 35 time 0.178188
+best 32 time 0.191026
+best 28 time 0.215896
+best 27 time 0.248484
+best 26 time 0.275000
+best 25 time 0.290997
+best 24 time 0.300008
+best 23 time 0.400894
+best 21 time 0.428682
+best 19 time 0.431627
+best 17 time 1.051975
+best 16 time 1.686020
+best 14 time 1.707624
+best 13 time 1.723062
+best 12 time 1.794329
+best 7 time 1.812312
+best 5 time 2.559668
+best 4 time 4.442967
+best 2 time 27.162908
+begin solution 6
+feasible: evaluation function = 2
+12 42 11 4 15 41 7 43 10 42 31 20 24 18 1 6 7 28 27 6 24 14 13 37 36 9 38 23 38 0 39 36 37 38 30 28 40 37 42 40 33 3 30 3 6 19 1 20 23 9 43 39 14 13 27 34 12 43 9 11 5 18 6 20 9 38 25 25 0 18 14 21 1 1 40 36 22 40 7 12 15 5 31 6 7 3 16 15 5 2 41 2 0 39 4 14 3 23 13 23 
+3 2 2 2 2 2 0 0 0 3 0 0 0 1 1 0 3 1 0 1 1 0 3 1 2 3 3 0 4 2 0 0 0 2 3 3 0 2 0 1 0 1 1 3 2 0 3 3 1 2 3 1 2 2 2 0 1 2 0 0 2 2 3 1 4 0 2 0 0 0 1 2 0 2 2 1 0 3 2 0 1 1 1 4 4 0 0 0 0 2 1 0 3 2 0 3 2 2 0 3 
+end solution 6
+end try 6
+begin try 7
+best 147 time 0.028722
+best 102 time 0.031690
+best 91 time 0.050218
+best 83 time 0.053205
+best 77 time 0.059643
+best 73 time 0.065622
+best 69 time 0.075972
+best 61 time 0.090444
+best 59 time 0.099515
+best 55 time 0.108509
+best 53 time 0.111565
+best 51 time 0.117018
+best 47 time 0.138247
+best 39 time 0.141276
+best 38 time 0.153150
+best 36 time 0.155945
+best 27 time 0.165155
+best 19 time 0.188971
+best 18 time 0.204594
+best 16 time 0.213277
+best 14 time 0.225697
+best 12 time 0.240641
+best 9 time 0.249547
+best 8 time 2.253233
+best 7 time 2.389155
+best 6 time 2.862353
+best 5 time 5.270364
+best 4 time 5.374429
+begin solution 7
+feasible: evaluation function = 4
+18 18 7 10 24 3 31 43 42 16 25 34 1 14 23 7 16 1 22 10 11 41 4 20 10 32 24 43 41 21 36 7 38 30 29 33 14 3 12 27 27 1 34 0 9 19 39 1 0 27 30 17 28 38 4 4 3 34 3 33 33 41 0 33 34 11 32 28 29 24 14 5 1 39 37 11 37 27 18 37 8 15 5 21 0 39 30 28 4 40 30 9 20 19 6 21 42 13 14 16 
+3 2 2 0 2 2 0 0 0 0 0 0 4 1 1 0 3 1 0 1 1 0 3 1 2 3 3 2 2 2 0 3 0 2 3 3 0 3 0 1 0 2 1 3 2 0 3 3 0 2 3 1 2 2 2 0 1 2 0 0 2 3 1 1 3 0 2 1 0 0 3 2 0 2 2 3 0 3 0 3 1 1 0 0 2 0 0 0 1 2 1 0 0 2 0 1 2 2 2 1 
+end solution 7
+end try 7
+begin try 8
+best 162 time 0.028733
+best 160 time 0.031809
+best 155 time 0.034391
+best 150 time 0.040053
+best 137 time 0.045804
+best 107 time 0.051565
+best 99 time 0.069534
+best 93 time 0.075370
+best 89 time 0.078413
+best 81 time 0.081158
+best 77 time 0.084123
+best 72 time 0.101948
+best 71 time 0.110876
+best 65 time 0.119100
+best 63 time 0.127676
+best 62 time 0.130564
+best 59 time 0.133344
+best 57 time 0.148078
+best 51 time 0.150715
+best 50 time 0.158985
+best 48 time 0.161982
+best 39 time 0.170610
+best 36 time 0.185362
+best 33 time 0.205766
+best 32 time 0.211281
+best 30 time 0.225207
+best 29 time 0.236907
+best 26 time 0.268264
+best 22 time 0.286312
+best 21 time 0.297935
+best 20 time 0.309084
+best 18 time 0.315018
+best 16 time 0.368547
+best 15 time 3.127607
+best 13 time 3.630913
+best 12 time 5.423439
+best 11 time 5.557532
+best 10 time 5.763827
+best 9 time 7.887711
+best 8 time 8.672436
+best 7 time 8.999228
+best 6 time 13.603755
+best 5 time 13.630081
+best 4 time 16.881797
+begin solution 8
+feasible: evaluation function = 4
+1 20 41 10 0 21 22 18 40 19 43 3 6 15 19 42 25 2 40 30 29 27 30 9 1 38 27 2 18 5 4 24 9 2 10 19 18 43 13 23 13 23 6 12 4 10 36 21 7 34 24 34 36 30 22 16 20 31 36 32 3 27 22 22 9 29 38 6 21 15 43 32 34 25 23 3 6 14 9 25 7 37 43 42 24 20 24 0 1 0 21 19 39 19 29 36 11 42 20 29 
+3 2 2 2 3 2 0 0 0 4 0 0 3 1 1 0 3 1 2 1 1 0 3 1 2 3 3 0 2 2 0 4 0 2 3 3 3 2 2 1 0 0 1 3 2 0 3 3 0 2 3 1 2 2 2 0 1 2 0 0 2 2 1 3 2 2 2 2 0 0 1 2 0 2 2 1 0 0 3 0 1 1 3 3 2 0 0 0 0 2 1 0 0 2 0 1 2 2 3 3 
+end solution 8
+end try 8
+begin try 9
+best 124 time 0.028354
+best 109 time 0.031073
+best 91 time 0.034184
+best 76 time 0.061152
+best 66 time 0.067271
+best 48 time 0.077160
+best 45 time 0.083014
+best 43 time 0.103856
+best 42 time 0.127891
+best 41 time 0.139937
+best 39 time 0.164754
+best 38 time 0.167730
+best 35 time 0.173357
+best 32 time 0.197971
+best 30 time 0.237290
+best 29 time 0.267751
+best 27 time 0.301075
+best 25 time 0.304402
+best 24 time 0.310110
+best 23 time 0.312984
+best 22 time 0.484748
+best 21 time 0.602738
+best 20 time 0.659838
+best 17 time 0.748856
+best 16 time 1.011198
+best 15 time 1.179374
+best 14 time 2.247743
+best 13 time 2.740426
+best 12 time 3.156245
+best 11 time 3.847612
+best 10 time 5.070473
+best 9 time 13.160599
+best 8 time 13.478029
+best 7 time 48.866617
+best 6 time 49.998295
+best 5 time 55.702526
+best 4 time 56.345623
+best 3 time 67.550027
+begin solution 9
+feasible: evaluation function = 3
+25 29 43 1 19 37 29 28 43 37 3 14 41 27 23 6 15 39 34 0 8 31 38 24 19 19 34 24 25 30 24 30 7 25 0 32 0 25 6 4 36 42 38 29 36 33 36 37 10 20 31 11 31 18 3 42 4 22 37 34 1 3 22 20 24 39 9 30 27 22 10 38 1 11 2 12 18 29 6 23 21 16 3 36 24 12 40 21 10 21 19 16 4 33 4 34 7 41 19 18 
+3 2 2 3 0 2 0 0 0 4 0 0 0 1 1 0 3 1 2 1 1 0 3 1 2 3 3 2 0 2 0 0 0 2 3 3 0 4 2 1 0 1 1 3 2 0 3 3 0 2 3 1 2 2 2 0 3 2 0 0 2 3 1 1 4 0 2 1 0 0 1 2 0 2 2 1 0 1 3 0 1 1 1 4 3 0 0 0 2 2 1 0 2 2 0 1 2 2 4 1 
+end solution 9
+end try 9
+begin try 10
+best 158 time 0.027919
+best 154 time 0.030774
+best 142 time 0.033720
+best 127 time 0.036381
+best 121 time 0.039440
+best 118 time 0.045119
+best 109 time 0.050756
+best 104 time 0.056560
+best 102 time 0.062066
+best 82 time 0.064960
+best 69 time 0.071236
+best 55 time 0.074029
+best 47 time 0.077160
+best 33 time 0.106474
+best 31 time 0.121720
+best 30 time 0.133031
+best 26 time 0.141273
+best 25 time 0.190492
+best 24 time 0.218550
+best 23 time 0.294894
+best 19 time 0.347354
+best 18 time 1.538217
+best 17 time 1.551922
+best 15 time 1.608187
+best 13 time 1.933013
+best 12 time 3.083693
+best 11 time 6.699737
+best 10 time 13.231288
+best 9 time 19.738283
+best 8 time 19.762201
+best 7 time 19.807318
+best 6 time 26.875055
+begin solution 10
+feasible: evaluation function = 6
+30 22 0 3 14 5 23 34 7 16 1 11 7 29 7 12 0 31 30 18 41 0 20 15 27 24 23 14 28 25 18 11 33 19 4 10 16 22 27 19 3 4 12 34 9 10 42 1 33 13 9 29 28 2 5 6 40 36 5 4 15 18 24 34 18 27 30 23 10 9 33 34 19 11 21 38 16 15 0 25 26 31 32 14 20 31 2 14 36 29 32 41 18 12 25 13 31 1 33 1 
+3 2 2 2 4 2 0 0 0 3 0 0 2 1 1 0 3 1 0 1 1 0 3 1 2 3 3 2 0 2 0 3 0 2 3 3 2 0 0 1 0 1 1 3 2 0 3 3 1 2 3 3 2 2 3 0 1 2 0 0 2 2 1 1 3 3 2 1 2 0 3 2 0 2 2 1 0 0 4 3 1 3 0 3 0 0 0 0 0 2 1 0 4 2 0 0 2 2 2 1 
+end solution 10
+end try 10
+begin try 11
+best 143 time 0.029096
+best 132 time 0.040909
+best 128 time 0.044094
+best 114 time 0.047073
+best 113 time 0.052901
+best 109 time 0.055981
+best 108 time 0.058604
+best 89 time 0.061808
+best 85 time 0.070261
+best 82 time 0.073241
+best 73 time 0.085244
+best 72 time 0.103659
+best 63 time 0.106472
+best 61 time 0.119324
+best 58 time 0.124951
+best 52 time 0.130761
+best 48 time 0.142508
+best 47 time 0.154372
+best 41 time 0.172168
+best 40 time 0.175310
+best 34 time 0.206041
+best 31 time 0.223189
+best 30 time 0.241178
+best 25 time 0.244050
+best 19 time 0.265907
+best 18 time 0.277973
+best 17 time 0.283866
+best 15 time 0.651947
+best 14 time 1.606548
+best 12 time 4.031407
+best 11 time 12.516272
+best 10 time 13.890091
+best 9 time 18.369110
+best 7 time 26.684962
+best 6 time 26.690989
+best 5 time 48.772605
+begin solution 11
+feasible: evaluation function = 5
+0 33 30 6 13 32 9 39 36 7 31 43 27 7 36 30 3 9 19 6 35 12 15 41 20 21 4 9 0 11 42 32 4 38 2 34 0 27 19 37 5 23 1 27 13 33 29 44 3 23 7 11 19 14 40 23 28 10 2 15 24 10 10 18 14 4 15 31 10 27 43 31 0 37 42 0 14 25 18 25 9 4 16 3 28 40 16 21 30 36 41 24 1 28 6 36 3 34 33 40 
+3 2 2 2 0 2 0 0 0 0 0 0 4 1 1 0 3 1 3 1 1 0 3 1 2 3 3 2 4 2 0 0 0 2 3 3 2 2 0 1 0 1 1 3 2 0 3 3 1 2 3 1 2 2 0 0 1 2 0 0 2 3 1 1 3 2 2 1 0 0 1 2 0 2 2 1 0 1 0 0 3 1 1 0 0 2 0 0 1 2 3 0 0 2 0 3 2 2 1 1 
+end solution 11
+end try 11
+begin try 12
+best 130 time 0.028833
+best 118 time 0.032097
+best 109 time 0.038152
+best 83 time 0.040971
+best 77 time 0.049337
+best 54 time 0.055588
+best 50 time 0.064700
+best 42 time 0.070715
+best 39 time 0.098055
+best 38 time 0.100942
+best 29 time 0.110659
+best 24 time 0.113696
+best 23 time 0.131598
+best 21 time 0.149361
+best 19 time 0.240015
+best 17 time 0.251996
+best 16 time 1.751516
+best 14 time 3.045049
+best 13 time 3.097387
+best 12 time 4.631696
+best 11 time 6.591798
+best 9 time 21.369594
+best 8 time 25.562652
+best 7 time 28.789016
+best 6 time 28.808542
+best 5 time 46.271781
+best 4 time 47.074953
+begin solution 12
+feasible: evaluation function = 4
+41 1 5 25 30 40 6 9 20 34 31 27 27 1 3 43 11 36 1 7 34 30 15 0 24 1 27 4 16 18 28 37 16 28 37 25 32 25 2 12 4 19 27 42 33 14 33 10 18 13 28 35 36 32 8 7 29 23 13 3 0 25 31 28 23 0 22 37 15 11 9 31 18 10 38 18 22 6 34 29 39 13 21 36 28 29 15 34 30 12 31 19 27 3 23 6 16 9 23 3 
+3 2 2 0 2 2 0 0 0 3 0 0 2 1 1 0 3 1 0 1 1 0 3 1 2 3 3 2 3 2 0 0 0 2 3 3 0 2 0 1 0 1 1 3 2 0 3 3 3 2 3 1 2 2 0 0 1 2 0 0 2 4 1 1 3 0 2 1 2 0 1 2 0 2 2 1 0 1 2 0 1 1 0 0 4 2 0 0 1 2 3 0 4 2 0 2 2 2 1 3 
+end solution 12
+end try 12
+begin try 13
+best 156 time 0.028700
+best 132 time 0.031676
+best 116 time 0.037800
+best 112 time 0.049101
+best 106 time 0.061133
+best 98 time 0.064234
+best 94 time 0.076000
+best 84 time 0.081381
+best 79 time 0.089855
+best 68 time 0.092813
+best 65 time 0.104602
+best 57 time 0.116592
+best 50 time 0.128350
+best 44 time 0.154775
+best 39 time 0.157693
+best 36 time 0.172259
+best 33 time 0.181202
+best 32 time 0.210180
+best 31 time 0.216247
+best 28 time 0.221880
+best 23 time 0.373457
+best 21 time 0.441313
+best 20 time 1.097663
+best 19 time 1.173898
+best 18 time 2.486324
+best 17 time 2.556217
+best 16 time 2.567401
+best 15 time 3.293837
+best 14 time 4.315097
+best 11 time 6.174355
+best 9 time 6.247339
+best 8 time 6.311140
+best 6 time 6.845520
+best 5 time 6.854235
+best 2 time 6.942048
+best 0 time 7.626933
+begin solution 13
+feasible: evaluation function = 0
+19 6 25 0 16 37 13 18 27 27 41 9 15 2 21 42 14 37 21 23 11 16 37 1 32 28 18 2 15 39 1 36 30 4 29 27 22 19 25 24 36 33 38 31 11 20 33 30 1 31 24 27 13 1 32 24 4 5 0 15 14 28 4 34 9 28 7 43 11 10 33 22 32 33 40 9 3 31 18 34 16 2 16 25 14 30 12 29 0 3 0 21 32 29 34 13 27 24 10 34 
+3 2 2 2 3 2 0 0 0 4 0 0 3 1 1 0 3 1 2 1 1 0 3 1 2 3 3 0 2 2 0 2 0 2 3 3 0 0 0 1 0 0 1 3 2 0 3 3 3 2 3 1 2 2 3 0 1 2 0 0 2 0 3 1 2 2 2 0 0 0 1 2 0 2 2 1 0 0 2 2 1 3 2 3 0 2 0 0 1 2 3 0 4 2 0 1 2 2 1 3 
+end solution 13
+end try 13
+begin try 14
+best 158 time 0.028878
+best 138 time 0.031847
+best 110 time 0.034963
+best 104 time 0.040952
+best 88 time 0.049935
+best 75 time 0.065697
+best 71 time 0.068587
+best 70 time 0.083637
+best 69 time 0.086358
+best 68 time 0.101863
+best 60 time 0.104897
+best 51 time 0.111087
+best 46 time 0.157550
+best 41 time 0.169823
+best 37 time 0.175751
+best 34 time 0.190570
+best 32 time 0.228810
+best 30 time 0.266064
+best 29 time 0.277463
+best 28 time 0.290141
+best 24 time 0.337942
+best 20 time 0.364023
+best 19 time 0.595276
+best 18 time 1.793090
+best 17 time 2.497464
+best 16 time 3.888236
+best 15 time 4.443870
+best 14 time 7.139654
+best 13 time 7.457757
+best 12 time 8.683619
+best 11 time 22.520948
+best 10 time 27.683980
+best 9 time 27.726119
+best 8 time 27.752574
+best 7 time 28.174936
+best 6 time 31.701289
+best 5 time 36.516656
+best 4 time 36.519884
+best 3 time 50.256057
+best 2 time 51.239738
+best 1 time 51.314355
+begin solution 14
+feasible: evaluation function = 1
+41 30 25 18 3 16 20 36 25 18 6 12 10 30 39 19 30 18 0 27 20 34 10 28 28 21 12 7 31 4 21 15 43 23 7 32 31 42 37 23 11 9 9 1 13 0 37 35 19 27 15 28 37 6 21 14 13 9 22 38 22 27 13 20 15 33 33 29 42 7 19 41 28 32 2 14 33 10 9 22 22 34 43 33 4 16 23 15 39 31 39 29 23 5 2 5 43 36 16 41 
+3 2 2 0 0 2 0 0 0 2 0 0 0 1 1 0 3 1 2 1 1 0 3 1 2 3 3 2 0 2 0 4 0 2 3 3 3 0 0 1 0 0 1 3 2 0 3 3 2 2 3 3 2 2 2 0 1 2 0 0 2 0 3 3 2 3 2 1 2 0 1 2 0 2 2 1 0 1 3 3 1 1 1 4 0 0 0 0 0 2 3 0 3 2 0 0 2 2 1 1 
+end solution 14
+end try 14
+begin try 15
+best 141 time 0.028666
+best 134 time 0.031516
+best 121 time 0.037242
+best 115 time 0.039849
+best 109 time 0.045501
+best 92 time 0.054381
+best 79 time 0.062465
+best 72 time 0.071855
+best 69 time 0.078344
+best 67 time 0.083811
+best 63 time 0.086679
+best 53 time 0.092243
+best 48 time 0.101426
+best 45 time 0.107774
+best 40 time 0.119527
+best 37 time 0.124982
+best 35 time 0.148577
+best 33 time 0.177045
+best 31 time 0.179994
+best 30 time 0.182959
+best 29 time 0.268231
+best 25 time 0.298002
+best 24 time 0.303744
+best 23 time 0.673915
+best 21 time 0.706949
+best 20 time 1.918818
+best 19 time 1.969924
+best 18 time 2.109472
+best 17 time 2.433507
+best 14 time 2.482487
+best 13 time 2.930775
+best 12 time 3.959197
+best 11 time 4.309603
+best 10 time 8.667773
+best 9 time 11.425253
+best 8 time 12.413481
+best 7 time 15.231217
+best 6 time 29.588138
+best 4 time 70.297742
+best 3 time 72.175485
+begin solution 15
+feasible: evaluation function = 3
+29 41 13 33 3 16 31 23 41 13 0 32 42 23 29 13 1 7 14 20 31 16 3 28 18 27 18 38 0 34 40 7 10 27 23 12 24 25 25 27 18 28 37 6 7 9 5 14 28 28 24 34 12 14 10 24 43 20 39 38 32 43 19 32 21 33 19 16 36 20 22 37 5 29 15 18 2 10 9 12 22 43 16 25 34 23 21 34 4 43 37 14 28 11 15 25 21 10 7 21 
+3 2 2 0 0 2 0 0 0 3 0 0 0 1 1 0 3 1 4 1 1 0 3 1 2 3 3 2 2 2 0 0 0 2 3 3 2 0 2 1 0 0 1 3 2 0 3 3 4 2 3 1 2 2 3 0 1 2 0 0 2 0 1 1 3 2 2 1 0 0 1 2 0 2 2 1 0 1 2 0 3 3 3 3 3 2 0 0 0 2 3 0 3 2 0 1 2 2 3 1 
+end solution 15
+end try 15
+begin try 16
+best 163 time 0.028358
+best 131 time 0.031348
+best 103 time 0.034251
+best 101 time 0.046410
+best 93 time 0.052426
+best 88 time 0.055315
+best 79 time 0.070184
+best 72 time 0.073011
+best 67 time 0.075599
+best 64 time 0.096809
+best 62 time 0.105670
+best 53 time 0.108500
+best 44 time 0.119874
+best 34 time 0.132474
+best 30 time 0.140769
+best 28 time 0.164492
+best 26 time 0.170612
+best 25 time 0.178750
+best 24 time 0.187772
+best 22 time 0.238207
+best 21 time 0.271270
+best 20 time 0.277199
+best 19 time 2.026483
+best 17 time 3.168268
+best 16 time 3.522902
+best 15 time 3.558545
+best 14 time 4.942111
+best 12 time 6.779947
+best 11 time 8.627782
+best 10 time 11.084880
+best 9 time 11.362956
+best 8 time 12.073535
+best 7 time 20.055111
+best 6 time 20.751820
+best 5 time 23.527449
+best 4 time 26.837620
+begin solution 16
+feasible: evaluation function = 4
+28 12 36 43 11 33 30 28 12 42 38 9 15 21 30 6 42 14 39 25 24 24 39 15 5 11 27 20 1 3 36 12 32 20 0 30 12 27 10 31 2 37 0 41 21 16 33 38 2 25 32 18 27 23 25 15 21 37 22 19 7 15 28 15 43 43 19 27 29 13 14 29 18 22 9 36 11 22 9 18 9 18 40 39 1 36 39 40 21 34 10 14 30 14 23 1 32 31 18 32 
+3 2 2 0 2 2 0 0 0 0 0 0 4 1 1 0 3 1 4 1 1 0 3 1 2 3 3 0 0 2 0 4 0 2 3 3 3 0 0 1 0 0 1 3 2 0 3 3 1 2 3 1 2 2 0 0 3 2 0 0 2 2 1 3 2 3 2 1 0 0 3 2 0 2 2 1 0 1 3 2 1 3 1 2 2 3 0 0 0 2 1 0 2 2 0 1 2 2 4 1 
+end solution 16
+end try 16
+begin try 17
+best 122 time 0.029306
+best 113 time 0.040746
+best 72 time 0.046590
+best 64 time 0.052188
+best 62 time 0.064201
+best 55 time 0.067585
+best 51 time 0.077185
+best 50 time 0.091388
+best 41 time 0.094345
+best 37 time 0.124344
+best 34 time 0.150563
+best 33 time 0.174529
+best 32 time 0.199045
+best 31 time 0.207910
+best 29 time 0.210508
+best 26 time 0.323720
+best 24 time 0.945801
+best 20 time 0.948894
+best 19 time 0.958507
+best 17 time 0.986692
+best 15 time 1.019725
+best 14 time 1.078442
+best 13 time 1.550765
+best 12 time 2.986564
+best 11 time 3.177378
+best 10 time 3.231724
+best 9 time 3.587892
+best 7 time 3.659389
+best 5 time 4.229569
+begin solution 17
+feasible: evaluation function = 5
+3 7 1 0 10 0 24 12 41 37 15 16 2 4 15 1 18 0 12 25 39 21 37 11 10 9 41 39 40 23 25 16 28 25 25 36 36 19 42 10 20 1 27 6 21 33 14 15 19 38 4 10 11 31 29 5 3 34 2 30 19 36 21 40 16 40 24 4 32 14 5 43 9 32 22 37 11 7 10 43 39 36 28 38 23 1 22 38 12 18 9 18 6 2 42 32 29 37 40 35 
+3 2 2 0 0 2 0 0 0 0 0 0 3 1 1 0 3 1 2 1 1 0 3 1 2 3 3 0 0 2 0 2 0 2 3 3 0 0 2 1 0 1 1 3 2 0 3 3 1 2 3 3 2 2 0 0 1 2 0 0 2 2 1 1 3 2 2 0 0 0 1 2 0 2 2 1 0 0 4 0 3 1 1 3 0 3 0 0 1 2 1 0 0 2 0 1 2 2 3 1 
+end solution 17
+end try 17
+begin try 18
+best 124 time 0.028655
+best 116 time 0.040574
+best 93 time 0.055154
+best 84 time 0.061107
+best 78 time 0.067326
+best 73 time 0.070473
+best 57 time 0.073438
+best 52 time 0.090947
+best 51 time 0.103280
+best 44 time 0.106094
+best 41 time 0.141736
+best 36 time 0.147797
+best 33 time 0.162748
+best 25 time 0.174643
+best 22 time 0.208461
+best 21 time 0.211541
+best 20 time 0.247908
+best 19 time 1.230015
+best 16 time 2.778805
+best 15 time 4.228004
+best 14 time 14.986806
+best 13 time 14.993103
+best 12 time 31.679756
+best 11 time 37.457968
+best 10 time 52.133330
+begin solution 18
+feasible: evaluation function = 10
+38 40 24 27 21 31 10 40 19 24 1 0 4 34 23 18 18 15 16 9 39 13 5 12 25 10 42 29 18 39 7 0 24 7 20 19 9 25 20 36 9 34 14 6 3 3 2 11 27 16 28 43 19 0 36 36 21 12 22 43 13 36 3 27 0 21 4 33 42 5 1 9 37 1 41 31 21 27 24 15 2 31 41 22 27 7 23 30 15 2 37 28 28 20 32 30 21 34 12 1 
+3 2 2 0 4 2 0 0 0 4 0 0 0 1 1 0 3 1 0 1 1 0 3 1 2 3 3 0 2 2 0 4 0 2 3 3 3 0 0 1 0 0 1 3 2 0 3 3 1 2 3 1 2 2 3 0 1 2 0 0 2 2 1 3 3 3 2 0 0 0 1 2 0 2 2 1 0 2 3 0 1 3 0 2 4 3 0 0 2 2 1 0 2 2 0 1 2 2 0 3 
+end solution 18
+end try 18
+begin try 19
+best 122 time 0.028710
+best 121 time 0.034663
+best 117 time 0.051478
+best 107 time 0.054238
+best 106 time 0.057252
+best 102 time 0.060820
+best 98 time 0.063800
+best 87 time 0.069314
+best 83 time 0.077403
+best 73 time 0.106243
+best 71 time 0.114989
+best 69 time 0.130047
+best 65 time 0.139035
+best 56 time 0.141556
+best 55 time 0.172627
+best 53 time 0.184402
+best 48 time 0.190909
+best 45 time 0.211937
+best 42 time 0.235445
+best 40 time 0.247203
+best 38 time 0.274069
+best 33 time 0.286146
+best 29 time 0.306403
+best 28 time 0.347820
+best 27 time 0.364688
+best 26 time 0.422652
+best 25 time 0.511224
+best 23 time 0.897465
+best 21 time 1.634075
+best 20 time 1.908455
+best 19 time 1.939662
+best 17 time 1.957041
+best 15 time 1.986630
+best 14 time 2.260002
+best 13 time 2.278140
+best 12 time 2.403524
+best 10 time 2.453810
+best 8 time 6.071534
+best 7 time 8.145593
+best 6 time 29.676975
+best 5 time 31.936496
+best 4 time 48.532056
+begin solution 19
+feasible: evaluation function = 4
+10 20 6 11 19 3 6 16 4 31 41 30 19 31 23 24 5 1 37 12 9 28 7 29 0 9 42 3 33 13 13 2 21 31 3 38 18 38 16 0 2 25 27 36 29 42 15 41 25 34 39 1 40 10 23 5 6 9 18 15 12 21 43 21 18 27 23 6 5 39 19 24 25 2 36 18 1 20 43 12 13 5 23 21 15 34 7 27 36 1 37 32 22 7 0 7 21 39 19 30 
+3 2 2 0 0 2 0 0 0 0 0 0 2 1 1 0 3 1 0 1 1 0 3 1 2 3 3 0 0 2 0 3 0 2 3 3 3 0 2 1 0 2 1 3 2 0 3 3 1 2 3 3 2 2 0 0 1 2 0 0 2 4 1 1 2 2 2 3 2 0 1 2 0 2 2 1 0 0 0 0 1 1 3 3 2 0 0 0 0 2 1 0 0 2 0 1 2 2 3 1 
+end solution 19
+end try 19
+begin try 20
+best 163 time 0.028156
+best 161 time 0.039718
+best 113 time 0.042637
+best 96 time 0.066167
+best 95 time 0.069031
+best 82 time 0.071756
+best 76 time 0.086494
+best 75 time 0.089434
+best 73 time 0.095016
+best 72 time 0.101312
+best 64 time 0.107527
+best 58 time 0.131261
+best 55 time 0.139694
+best 49 time 0.151299
+best 48 time 0.159815
+best 42 time 0.165602
+best 39 time 0.180460
+best 36 time 0.192302
+best 35 time 0.230911
+best 33 time 0.236768
+best 30 time 0.245218
+best 27 time 0.250965
+best 26 time 0.318481
+best 24 time 0.391739
+best 23 time 0.394919
+best 21 time 0.406581
+best 20 time 0.522203
+best 19 time 1.024106
+best 18 time 2.988691
+best 17 time 3.336333
+best 16 time 5.683881
+best 15 time 5.766971
+best 14 time 7.815392
+best 13 time 9.989639
+best 12 time 17.058200
+best 11 time 31.575895
+best 9 time 31.590134
+best 8 time 39.387534
+begin solution 20
+feasible: evaluation function = 8
+33 18 9 12 10 41 40 39 9 18 30 20 41 19 36 3 29 23 0 19 28 36 31 3 3 27 22 37 4 28 25 37 38 43 20 24 20 18 16 40 31 34 27 5 12 11 14 39 18 24 40 15 21 37 10 18 37 34 14 10 13 23 13 23 25 15 22 2 42 5 33 10 19 15 14 32 21 38 28 13 37 0 0 27 24 32 27 33 10 0 6 28 25 36 43 22 38 16 30 28 
+3 2 2 0 4 2 0 0 0 4 0 0 0 1 1 0 3 1 0 3 1 0 3 1 2 3 3 0 0 2 0 4 0 2 3 3 2 3 0 1 0 0 1 3 2 0 3 3 1 2 3 1 2 2 3 0 1 2 0 0 2 0 1 3 2 0 2 0 0 0 1 2 0 2 2 1 0 1 4 0 3 1 3 2 0 0 0 0 1 2 1 0 3 2 0 0 2 2 1 3 
+end solution 20
+end try 20
+begin try 21
+best 148 time 0.028240
+best 128 time 0.031132
+best 114 time 0.034035
+best 105 time 0.048544
+best 94 time 0.065838
+best 82 time 0.068680
+best 73 time 0.095289
+best 50 time 0.101633
+best 49 time 0.137901
+best 43 time 0.150441
+best 38 time 0.159679
+best 34 time 0.168435
+best 28 time 0.186541
+best 26 time 0.193074
+best 25 time 0.208627
+best 24 time 0.237950
+best 21 time 0.274938
+best 20 time 0.290950
+best 19 time 0.300475
+best 18 time 0.382312
+best 17 time 0.785013
+best 16 time 1.158093
+best 15 time 1.437318
+best 13 time 2.142850
+best 12 time 3.061759
+best 11 time 3.117025
+best 10 time 3.171451
+best 8 time 3.211908
+best 7 time 7.164093
+best 6 time 8.175041
+best 5 time 11.070995
+best 4 time 11.861391
+best 3 time 13.644142
+begin solution 21
+feasible: evaluation function = 3
+19 36 27 25 12 6 13 19 40 40 14 6 36 18 22 33 33 31 30 41 35 22 32 11 14 27 9 12 9 24 42 42 24 15 15 43 20 16 41 38 29 0 33 11 29 0 12 41 33 10 1 5 18 2 21 34 13 39 38 18 21 0 30 37 23 23 3 2 37 3 34 33 2 12 30 9 4 28 27 42 13 37 7 36 15 7 27 31 9 16 6 28 9 38 15 18 23 1 36 1 
+3 2 2 0 4 2 0 0 0 2 0 0 0 1 1 0 3 1 0 1 1 0 3 1 2 3 3 0 0 2 0 2 0 2 3 3 0 0 0 1 0 1 1 3 2 0 3 3 4 2 3 1 2 2 0 0 1 2 0 0 2 2 1 1 0 3 2 1 0 0 1 2 0 2 2 1 0 1 4 3 3 3 1 3 4 0 0 0 2 2 1 0 4 2 0 3 2 2 1 1 
+end solution 21
+end try 21
+begin try 22
+best 137 time 0.028930
+best 102 time 0.032155
+best 90 time 0.035107
+best 88 time 0.044172
+best 85 time 0.047418
+best 67 time 0.059334
+best 59 time 0.074551
+best 54 time 0.092710
+best 46 time 0.101768
+best 45 time 0.111048
+best 42 time 0.114189
+best 36 time 0.123624
+best 34 time 0.175062
+best 32 time 0.189485
+best 31 time 0.192513
+best 28 time 0.210676
+best 26 time 0.254403
+best 24 time 0.285292
+best 23 time 0.309957
+best 21 time 0.319104
+best 19 time 0.332205
+best 18 time 0.674358
+best 17 time 0.780766
+best 15 time 0.975294
+best 14 time 1.671672
+best 13 time 1.732867
+best 12 time 2.763789
+best 11 time 12.077975
+best 9 time 13.968534
+best 8 time 15.398489
+best 7 time 15.427281
+best 6 time 18.966387
+best 5 time 33.873875
+best 4 time 48.420727
+best 3 time 53.364740
+begin solution 22
+feasible: evaluation function = 3
+40 3 10 34 3 23 9 43 16 6 5 3 2 30 10 13 28 9 7 16 3 7 19 36 34 21 7 25 31 15 28 28 27 16 22 32 32 0 31 40 20 13 23 1 30 31 11 31 11 13 29 38 39 2 33 24 0 24 12 1 12 0 31 33 19 10 1 27 4 37 3 4 34 25 36 30 2 30 0 0 20 5 27 19 15 14 14 6 5 32 34 10 10 27 18 41 28 29 33 24 
+3 2 2 3 4 2 0 0 0 2 0 0 3 1 1 0 3 1 2 1 1 0 3 1 2 3 3 0 4 2 0 4 0 2 3 3 0 0 2 1 0 1 1 3 2 0 3 3 0 2 3 1 2 2 0 0 1 2 0 0 2 2 1 1 0 3 2 1 0 0 3 2 0 2 2 3 0 0 3 4 1 1 3 2 0 2 0 0 2 2 1 0 4 2 0 0 2 2 2 1 
+end solution 22
+end try 22
+begin try 23
+best 135 time 0.028368
+best 113 time 0.034491
+best 109 time 0.037266
+best 99 time 0.042964
+best 98 time 0.045939
+best 84 time 0.048912
+best 76 time 0.051798
+best 75 time 0.054658
+best 62 time 0.066596
+best 56 time 0.072413
+best 52 time 0.084353
+best 44 time 0.087209
+best 42 time 0.090019
+best 40 time 0.105658
+best 34 time 0.129121
+best 31 time 0.132263
+best 28 time 0.141094
+best 27 time 0.193727
+best 25 time 0.238916
+best 24 time 0.296602
+best 23 time 0.433523
+best 22 time 0.478492
+best 21 time 1.131249
+best 19 time 1.557764
+best 18 time 3.622210
+best 17 time 3.872752
+best 16 time 8.375935
+best 14 time 24.190809
+best 13 time 28.577093
+best 12 time 28.777853
+best 11 time 38.069666
+best 10 time 38.117966
+best 9 time 46.279775
+best 7 time 56.439850
+best 6 time 56.492781
+best 5 time 61.086789
+best 4 time 61.740654
+best 3 time 70.367643
+begin solution 23
+feasible: evaluation function = 3
+21 25 40 18 27 22 43 36 20 37 18 10 36 37 9 42 25 37 21 42 34 40 28 27 42 12 41 23 37 34 27 33 39 32 39 20 19 16 24 39 41 18 27 29 9 13 33 44 18 23 36 14 24 38 10 25 41 33 32 12 36 0 25 10 22 9 31 34 14 16 28 21 3 10 15 30 22 32 27 20 44 24 32 2 18 12 34 29 19 30 9 15 19 19 5 19 39 12 24 30 
+3 2 2 4 4 2 0 0 0 0 0 0 4 1 1 0 3 3 0 1 1 0 3 1 2 3 3 0 2 2 0 0 0 2 3 3 0 2 0 1 0 1 3 3 2 0 3 3 2 2 3 1 2 2 3 0 1 2 0 0 2 0 1 1 3 0 2 3 0 0 1 2 0 2 2 1 0 1 2 2 1 1 3 0 3 4 0 0 1 2 3 0 4 2 0 3 2 2 3 3 
+end solution 23
+end try 23
+begin try 24
+best 131 time 0.029348
+best 112 time 0.040597
+best 95 time 0.043370
+best 84 time 0.046233
+best 81 time 0.057515
+best 67 time 0.063657
+best 65 time 0.090168
+best 64 time 0.104787
+best 61 time 0.107505
+best 53 time 0.116613
+best 51 time 0.131567
+best 47 time 0.146076
+best 44 time 0.157280
+best 43 time 0.172669
+best 42 time 0.178573
+best 40 time 0.181689
+best 37 time 0.187879
+best 35 time 0.214248
+best 33 time 0.228961
+best 32 time 0.253073
+best 31 time 0.274136
+best 29 time 0.277065
+best 26 time 0.286005
+best 25 time 0.321823
+best 24 time 0.327780
+best 23 time 0.342000
+best 22 time 0.357160
+best 21 time 0.386933
+best 19 time 0.475091
+best 18 time 0.521025
+best 17 time 0.716806
+best 16 time 1.106626
+best 15 time 2.159909
+best 14 time 6.019614
+best 13 time 10.924326
+best 12 time 12.465544
+best 11 time 21.398663
+begin solution 24
+feasible: evaluation function = 11
+0 40 43 3 23 36 36 11 29 9 16 25 33 22 1 10 4 13 4 2 3 28 9 41 13 6 29 13 16 25 41 0 27 34 36 34 42 36 38 3 39 23 31 11 7 20 27 32 9 39 31 43 38 41 16 7 14 10 32 15 14 38 37 21 2 31 30 27 30 22 19 1 37 11 29 39 42 30 1 16 4 32 15 39 0 18 21 5 18 42 43 6 3 9 14 33 31 0 37 9 
+3 2 2 0 0 2 0 0 0 0 0 0 0 1 1 0 3 1 0 1 1 0 3 1 2 3 3 0 2 2 0 0 0 2 3 3 3 4 0 3 0 1 1 3 2 0 3 3 4 2 3 1 2 2 3 0 1 2 0 0 2 3 1 1 0 0 2 1 0 0 1 2 0 2 2 1 0 1 0 4 1 1 1 3 4 0 0 0 1 2 3 0 2 2 0 1 2 2 2 1 
+end solution 24
+end try 24
+begin try 25
+best 128 time 0.028882
+best 124 time 0.040952
+best 112 time 0.044111
+best 103 time 0.050904
+best 87 time 0.053847
+best 85 time 0.068906
+best 82 time 0.081536
+best 75 time 0.090733
+best 69 time 0.093762
+best 67 time 0.102975
+best 66 time 0.108671
+best 61 time 0.126440
+best 56 time 0.129671
+best 54 time 0.153822
+best 42 time 0.169011
+best 41 time 0.245363
+best 40 time 0.257643
+best 31 time 0.285610
+best 28 time 0.291780
+best 25 time 0.355839
+best 24 time 0.380077
+best 23 time 1.355520
+best 22 time 2.180984
+best 21 time 3.341634
+best 19 time 3.516002
+best 18 time 3.540272
+best 17 time 3.655527
+best 16 time 6.674697
+best 15 time 7.437769
+best 12 time 12.594184
+best 10 time 17.423280
+best 9 time 19.525804
+best 8 time 20.062879
+best 7 time 22.572588
+best 6 time 22.585443
+best 5 time 22.588564
+best 4 time 30.421424
+best 3 time 45.437882
+begin solution 25
+feasible: evaluation function = 3
+19 38 27 5 18 6 22 15 2 14 31 42 40 21 22 40 38 3 30 38 0 0 28 2 37 9 43 20 16 34 10 1 18 11 37 36 9 20 15 42 1 11 16 0 14 37 11 7 39 24 41 44 39 10 2 4 37 36 24 39 43 0 7 39 25 3 23 16 36 23 39 3 7 41 12 9 25 29 43 1 41 22 32 27 27 9 43 6 36 25 21 19 32 40 3 38 20 13 40 13 
+3 2 2 0 2 2 0 0 0 0 0 0 3 1 1 0 3 1 0 1 1 0 3 1 2 3 3 0 0 2 0 3 0 2 3 3 0 3 2 1 0 0 1 3 2 0 3 3 4 2 3 1 2 2 2 0 1 2 0 0 2 2 1 1 3 3 2 2 0 0 3 2 0 2 2 1 0 0 4 2 1 3 1 0 3 2 0 0 1 2 3 0 0 2 0 0 2 2 1 1 
+end solution 25
+end try 25
+begin try 26
+best 168 time 0.029328
+best 165 time 0.034951
+best 131 time 0.037700
+best 98 time 0.052214
+best 86 time 0.060778
+best 83 time 0.069914
+best 80 time 0.081701
+best 71 time 0.087342
+best 60 time 0.093174
+best 52 time 0.107627
+best 47 time 0.119642
+best 44 time 0.131723
+best 40 time 0.143417
+best 37 time 0.158427
+best 32 time 0.186068
+best 30 time 0.197540
+best 28 time 0.206333
+best 25 time 0.212346
+best 16 time 0.251880
+best 12 time 0.264102
+best 11 time 2.401124
+best 10 time 2.466107
+best 9 time 2.886548
+best 8 time 4.447621
+best 7 time 4.519257
+best 6 time 5.498602
+best 5 time 12.223496
+best 4 time 22.337843
+best 3 time 39.497923
+begin solution 26
+feasible: evaluation function = 3
+41 0 31 24 4 3 33 32 18 36 6 34 12 13 25 31 31 9 0 40 16 30 22 14 40 20 33 3 30 34 15 31 40 42 1 36 18 28 19 13 28 36 15 32 33 16 38 29 43 43 30 23 36 29 35 27 28 32 20 11 11 38 24 21 15 27 25 11 42 10 29 27 37 39 24 14 41 43 34 12 7 38 30 39 18 28 21 23 19 37 27 36 42 7 1 6 38 16 33 39 
+3 2 2 0 0 2 0 0 0 4 0 0 0 1 1 0 3 1 0 1 1 0 3 1 2 3 3 0 2 2 0 4 0 2 3 3 2 3 0 3 0 1 1 3 2 0 3 3 0 2 3 1 2 2 0 0 1 2 0 0 2 0 1 1 2 3 2 1 0 0 1 2 0 2 2 3 0 1 3 2 1 1 1 0 3 2 0 0 1 2 1 0 3 2 0 1 2 2 1 1 
+end solution 26
+end try 26
+begin try 27
+best 139 time 0.029928
+best 118 time 0.038507
+best 115 time 0.053078
+best 99 time 0.056118
+best 75 time 0.059091
+best 74 time 0.064812
+best 65 time 0.067768
+best 61 time 0.080301
+best 51 time 0.098101
+best 45 time 0.110005
+best 36 time 0.112664
+best 34 time 0.132956
+best 29 time 0.138828
+best 28 time 0.144337
+best 25 time 0.153450
+best 23 time 0.159247
+best 20 time 0.162010
+best 19 time 0.165525
+best 18 time 0.201873
+best 17 time 0.232539
+best 10 time 0.235919
+best 9 time 0.559505
+best 7 time 0.562979
+best 6 time 1.145158
+best 4 time 1.719864
+best 3 time 10.981991
+best 2 time 16.035695
+best 1 time 38.655937
+begin solution 27
+feasible: evaluation function = 1
+6 14 38 42 11 24 43 27 6 18 15 4 38 24 18 38 27 24 9 0 22 21 2 22 29 7 36 21 7 23 32 11 37 18 14 41 19 25 23 6 22 10 32 40 30 29 18 16 10 28 42 26 4 20 28 19 27 0 0 30 43 9 2 29 37 36 12 25 41 33 1 11 10 5 1 28 12 42 37 25 42 33 1 39 5 13 34 16 1 40 21 14 42 16 18 20 36 19 31 0 
+3 2 2 4 0 2 0 0 0 4 0 0 3 1 1 0 3 3 0 1 1 0 3 3 2 3 3 2 0 2 0 3 0 2 3 3 3 0 0 1 0 2 1 3 2 0 3 3 1 2 3 1 2 2 0 0 1 2 0 0 2 2 1 1 2 0 2 1 0 0 1 2 0 2 2 1 0 0 3 2 1 1 0 0 0 0 0 0 3 2 1 0 2 2 0 0 2 2 0 3 
+end solution 27
+end try 27
+begin try 28
+best 147 time 0.028375
+best 146 time 0.031311
+best 122 time 0.034409
+best 109 time 0.040228
+best 88 time 0.046426
+best 87 time 0.058185
+best 84 time 0.064419
+best 82 time 0.073381
+best 75 time 0.076392
+best 67 time 0.081904
+best 60 time 0.091235
+best 59 time 0.094260
+best 56 time 0.097241
+best 43 time 0.103414
+best 40 time 0.115024
+best 39 time 0.120851
+best 34 time 0.150676
+best 29 time 0.159547
+best 28 time 0.174525
+best 27 time 0.189376
+best 23 time 0.192419
+best 22 time 0.235829
+best 20 time 0.245162
+best 19 time 0.275300
+best 18 time 0.300026
+best 17 time 0.340457
+best 16 time 0.804703
+best 15 time 2.406040
+best 14 time 3.930859
+best 13 time 7.349205
+best 12 time 8.380426
+best 11 time 10.628661
+best 9 time 75.030233
+best 8 time 75.087575
+begin solution 28
+feasible: evaluation function = 8
+3 28 11 14 12 9 33 18 34 22 15 12 27 40 9 39 29 37 5 21 44 25 10 36 30 12 33 19 15 34 38 12 16 38 9 4 11 9 22 29 14 28 15 31 14 32 25 42 33 32 34 8 36 29 18 29 42 37 22 19 6 0 14 30 40 24 21 22 27 30 27 13 2 18 42 12 20 32 6 30 39 32 10 0 34 9 24 10 31 41 27 28 24 27 7 5 20 43 30 21 
+3 2 2 3 4 2 0 0 0 3 0 0 4 1 1 0 3 1 0 1 1 0 3 1 2 3 3 2 2 2 0 2 0 2 3 3 0 0 2 1 0 1 1 3 2 0 3 3 1 2 3 1 2 2 3 0 1 2 0 0 2 0 1 1 0 3 2 1 0 0 1 2 0 2 2 1 0 1 0 3 1 3 1 2 4 4 0 0 0 2 3 0 2 2 0 1 2 2 4 3 
+end solution 28
+end try 28
+begin try 29
+best 177 time 0.028725
+best 153 time 0.034659
+best 149 time 0.040112
+best 136 time 0.045570
+best 131 time 0.051293
+best 127 time 0.054675
+best 121 time 0.057697
+best 111 time 0.060709
+best 91 time 0.078845
+best 84 time 0.091625
+best 76 time 0.097879
+best 73 time 0.106864
+best 56 time 0.109635
+best 55 time 0.137788
+best 54 time 0.143564
+best 44 time 0.164023
+best 39 time 0.169678
+best 38 time 0.173159
+best 37 time 0.182133
+best 34 time 0.194170
+best 33 time 0.203547
+best 30 time 0.209207
+best 27 time 0.212014
+best 26 time 0.235992
+best 25 time 0.271236
+best 24 time 0.274058
+best 23 time 0.293298
+best 21 time 0.298946
+best 20 time 0.316909
+best 18 time 0.332170
+best 17 time 0.349953
+best 16 time 0.382691
+best 15 time 0.388363
+best 13 time 0.448441
+best 11 time 0.669762
+best 10 time 5.988837
+best 9 time 6.697661
+best 7 time 7.085450
+best 6 time 11.976782
+best 5 time 13.291966
+best 4 time 35.064261
+best 3 time 75.290287
+begin solution 29
+feasible: evaluation function = 3
+43 31 12 28 33 1 1 32 31 29 11 41 41 29 29 10 37 2 14 28 44 36 28 10 28 34 4 29 36 29 2 6 4 38 40 7 30 24 7 37 15 32 30 5 3 9 19 18 38 6 3 23 5 10 26 0 7 27 39 33 42 36 36 42 37 39 34 38 40 7 33 39 43 32 30 27 34 38 42 28 35 42 27 9 14 6 30 5 3 43 5 42 27 40 37 37 4 22 7 11 
+3 2 2 0 2 2 0 0 0 4 0 0 2 1 3 0 3 1 0 1 1 0 3 1 2 3 3 0 2 2 0 0 0 2 3 3 3 0 2 1 0 1 1 3 2 0 3 3 0 2 3 1 2 2 0 0 1 2 0 0 2 3 1 1 4 3 2 1 0 0 1 2 0 2 2 1 0 3 4 4 1 3 0 2 2 3 0 0 0 2 1 0 3 2 0 2 2 2 4 1 
+end solution 29
+end try 29
+begin try 30
+best 150 time 0.029002
+best 148 time 0.034830
+best 121 time 0.041183
+best 120 time 0.044308
+best 115 time 0.056042
+best 103 time 0.058959
+best 100 time 0.061835
+best 87 time 0.064539
+best 83 time 0.082471
+best 79 time 0.100125
+best 54 time 0.103228
+best 50 time 0.109024
+best 47 time 0.154286
+best 44 time 0.169382
+best 38 time 0.188501
+best 34 time 0.215259
+best 31 time 0.218144
+best 30 time 0.223624
+best 29 time 0.257518
+best 28 time 0.263646
+best 26 time 0.362524
+best 25 time 0.365053
+best 24 time 0.397882
+best 23 time 0.427717
+best 21 time 0.430690
+best 20 time 0.460055
+best 19 time 0.810800
+best 18 time 1.514763
+best 16 time 2.924150
+best 15 time 2.986160
+best 14 time 3.081124
+best 12 time 4.565812
+best 11 time 4.608812
+best 10 time 5.164405
+best 9 time 5.546709
+best 8 time 7.564126
+best 7 time 10.746282
+best 5 time 12.384764
+best 4 time 14.319164
+begin solution 30
+feasible: evaluation function = 4
+37 36 2 25 29 20 0 1 7 7 43 32 10 20 20 6 25 40 22 24 13 13 5 41 16 42 18 42 9 25 39 20 15 38 19 23 21 3 1 25 18 28 24 38 24 16 1 27 31 19 39 22 41 3 9 21 11 34 3 4 5 40 27 1 33 14 27 36 9 9 19 40 37 32 12 43 20 38 42 23 0 0 34 40 5 22 31 19 29 37 10 36 0 23 24 0 14 22 25 2 
+3 2 2 0 0 2 0 0 0 2 0 0 0 1 3 0 3 1 0 1 1 0 3 1 2 3 3 0 4 2 0 4 0 2 3 3 2 3 2 1 0 0 3 3 2 0 3 3 1 2 3 1 2 2 3 0 1 2 0 0 2 0 1 1 0 0 2 1 2 0 1 2 0 2 2 1 0 0 2 0 1 3 0 3 0 3 0 0 1 2 1 0 4 2 0 2 2 2 4 1 
+end solution 30
+end try 30

@@ -1,0 +1,738 @@
+begin try 1
+best 79 time 0.437500
+best 68 time 1.296875
+best 66 time 2.000000
+best 61 time 2.390625
+best 51 time 2.781250
+best 49 time 4.093750
+best 44 time 4.718750
+best 37 time 5.062500
+best 34 time 5.562500
+best 33 time 6.828125
+best 31 time 7.218750
+best 30 time 10.546875
+best 28 time 10.828125
+best 26 time 23.203125
+best 25 time 28.250000
+best 23 time 45.421875
+best 21 time 47.453125
+best 20 time 57.703125
+best 18 time 67.375000
+begin solution 1
+feasible: evaluation function = 18
+[e0t34r0] [e1t20r0] [e2t34r1] [e3t3r3] [e4t2r1] [e5t33r4] [e6t42r3] [e7t6r4] [e8t41r2] [e9t40r1] [e10t23r3] [e11t33r3] [e12t43r2] [e13t5r3] [e14t21r4] [e15t3r0] [e16t12r4] [e17t14r4] [e18t40r4] [e19t15r3] [e20t41r0] [e21t33r0] [e22t13r3] [e23t29r4] [e24t23r2] [e25t1r3] [e26t39r2] [e27t6r3] [e28t2r0] [e29t4r2] [e30t10r0] [e31t43r0] [e32t38r4] [e33t38r2] [e34t37r1] [e35t3r4] [e36t14r0] [e37t4r3] [e38t41r1] [e39t13r4] [e40t13r0] [e41t31r0] [e42t32r1] [e43t4r4] [e44t12r0] [e45t12r1] [e46t23r4] [e47t5r4] [e48t2r4] [e49t10r1] [e50t22r1] [e51t23r0] [e52t42r0] [e53t34r4] [e54t24r4] [e55t22r3] [e56t24r0] [e57t32r0] [e58t1r0] [e59t23r1] [e60t10r3] [e61t2r3] [e62t31r4] [e63t32r3] [e64t3r1] [e65t4r0] [e66t32r4] [e67t16r0] [e68t12r3] [e69t32r2] [e70t40r3] [e71t11r4] [e72t37r0] [e73t14r3] [e74t39r1] [e75t40r0] [e76t30r4] [e77t5r0] [e78t11r1] [e79t22r4] [e80t1r1] [e81t39r0] [e82t7r0] [e83t4r1] [e84t24r2] [e85t13r1] [e86t11r2] [e87t39r4] [e88t21r0] [e89t39r3] [e90t42r4] [e91t22r0] [e92t41r4] [e93t11r0] [e94t25r3] [e95t7r3] [e96t2r2] [e97t38r0] [e98t31r3] [e99t31r1] 
+end solution 1
+end try 1
+begin try 2
+best 60 time 0.390625
+best 59 time 1.437500
+best 52 time 1.609375
+best 49 time 2.203125
+best 48 time 3.312500
+best 45 time 5.671875
+best 41 time 10.062500
+best 40 time 12.718750
+best 38 time 16.421875
+best 37 time 18.812500
+best 35 time 26.750000
+best 33 time 31.906250
+best 31 time 49.093750
+best 29 time 56.015625
+best 28 time 56.468750
+best 26 time 57.359375
+best 25 time 59.468750
+best 22 time 79.515625
+begin solution 2
+feasible: evaluation function = 22
+[e0t25r4] [e1t34r0] [e2t25r1] [e3t24r3] [e4t3r1] [e5t39r4] [e6t29r3] [e7t4r4] [e8t15r2] [e9t11r1] [e10t30r3] [e11t23r3] [e12t22r2] [e13t12r3] [e14t32r4] [e15t24r0] [e16t38r4] [e17t37r4] [e18t21r4] [e19t2r3] [e20t2r0] [e21t23r0] [e22t31r3] [e23t16r4] [e24t25r2] [e25t2r4] [e26t24r2] [e27t28r3] [e28t30r0] [e29t5r2] [e30t43r0] [e31t6r0] [e32t33r4] [e33t12r2] [e34t10r2] [e35t20r4] [e36t6r4] [e37t38r3] [e38t31r0] [e39t29r4] [e40t29r2] [e41t10r1] [e42t22r1] [e43t40r4] [e44t13r0] [e45t13r1] [e46t30r4] [e47t22r4] [e48t23r4] [e49t25r0] [e50t38r0] [e51t14r0] [e52t13r3] [e53t3r4] [e54t31r4] [e55t5r3] [e56t39r0] [e57t42r0] [e58t20r0] [e59t31r1] [e60t41r3] [e61t1r3] [e62t14r4] [e63t42r4] [e64t20r1] [e65t5r0] [e66t15r4] [e67t1r0] [e68t42r3] [e69t7r0] [e70t4r0] [e71t41r4] [e72t21r0] [e73t14r3] [e74t14r1] [e75t3r0] [e76t13r4] [e77t16r0] [e78t7r1] [e79t22r0] [e80t37r0] [e81t37r1] [e82t11r0] [e83t19r0] [e84t13r2] [e85t40r1] [e86t40r2] [e87t11r4] [e88t30r2] [e89t39r3] [e90t29r0] [e91t15r0] [e92t28r4] [e93t40r0] [e94t43r3] [e95t40r3] [e96t12r1] [e97t12r0] [e98t22r3] [e99t10r0] 
+end solution 2
+end try 2
+begin try 3
+best 68 time 0.421875
+best 66 time 0.765625
+best 62 time 1.062500
+best 58 time 1.281250
+best 56 time 2.109375
+best 55 time 2.687500
+best 48 time 3.125000
+best 41 time 4.093750
+best 39 time 4.281250
+best 38 time 13.937500
+best 34 time 17.593750
+best 31 time 19.000000
+best 30 time 66.093750
+best 28 time 73.296875
+best 27 time 73.593750
+begin solution 3
+feasible: evaluation function = 27
+[e0t7r0] [e1t12r0] [e2t40r1] [e3t5r3] [e4t28r1] [e5t32r4] [e6t34r3] [e7t42r4] [e8t20r2] [e9t39r1] [e10t39r3] [e11t3r3] [e12t10r2] [e13t2r3] [e14t4r4] [e15t22r0] [e16t39r4] [e17t37r4] [e18t13r4] [e19t4r3] [e20t25r0] [e21t33r0] [e22t32r3] [e23t7r4] [e24t39r2] [e25t14r4] [e26t25r2] [e27t30r3] [e28t4r0] [e29t4r2] [e30t23r0] [e31t6r0] [e32t5r4] [e33t19r0] [e34t10r1] [e35t31r4] [e36t5r0] [e37t23r3] [e38t29r1] [e39t38r4] [e40t38r2] [e41t41r1] [e42t5r1] [e43t30r4] [e44t39r0] [e45t23r1] [e46t15r4] [e47t25r4] [e48t24r4] [e49t7r1] [e50t33r1] [e51t40r0] [e52t43r0] [e53t34r4] [e54t12r4] [e55t14r3] [e56t20r3] [e57t32r0] [e58t12r2] [e59t33r2] [e60t22r3] [e61t11r3] [e62t21r4] [e63t23r4] [e64t22r1] [e65t41r0] [e66t33r4] [e67t3r0] [e68t28r0] [e69t29r0] [e70t37r0] [e71t29r4] [e72t11r0] [e73t3r4] [e74t13r1] [e75t24r0] [e76t6r4] [e77t2r0] [e78t30r0] [e79t10r0] [e80t2r1] [e81t11r1] [e82t1r0] [e83t24r1] [e84t41r2] [e85t14r0] [e86t30r1] [e87t22r4] [e88t34r0] [e89t38r3] [e90t31r0] [e91t20r0] [e92t40r4] [e93t21r0] [e94t13r3] [e95t31r3] [e96t38r1] [e97t13r0] [e98t38r0] [e99t16r0] 
+end solution 3
+end try 3
+begin try 4
+best 80 time 0.406250
+best 75 time 1.203125
+best 69 time 1.500000
+best 65 time 2.093750
+best 63 time 2.468750
+best 57 time 3.140625
+best 55 time 4.718750
+best 43 time 5.750000
+best 41 time 6.140625
+best 39 time 7.093750
+best 35 time 10.953125
+best 34 time 11.953125
+best 33 time 13.281250
+best 30 time 21.125000
+best 28 time 21.859375
+best 26 time 25.437500
+best 24 time 28.156250
+best 23 time 42.031250
+best 21 time 79.968750
+begin solution 4
+feasible: evaluation function = 21
+[e0t20r0] [e1t7r0] [e2t19r1] [e3t21r3] [e4t33r0] [e5t2r4] [e6t15r3] [e7t32r4] [e8t19r0] [e9t15r1] [e10t28r3] [e11t14r3] [e12t40r2] [e13t3r3] [e14t6r4] [e15t3r0] [e16t3r4] [e17t25r4] [e18t23r4] [e19t11r3] [e20t39r0] [e21t14r0] [e22t5r3] [e23t40r4] [e24t23r2] [e25t43r3] [e26t39r2] [e27t23r3] [e28t22r0] [e29t4r2] [e30t43r0] [e31t5r0] [e32t4r4] [e33t19r2] [e34t22r1] [e35t12r4] [e36t41r0] [e37t4r3] [e38t40r1] [e39t39r4] [e40t43r2] [e41t16r1] [e42t33r1] [e43t22r4] [e44t11r0] [e45t41r1] [e46t28r4] [e47t24r4] [e48t5r4] [e49t37r1] [e50t20r1] [e51t10r0] [e52t15r0] [e53t38r4] [e54t29r4] [e55t30r3] [e56t16r0] [e57t38r0] [e58t2r2] [e59t3r2] [e60t29r3] [e61t41r3] [e62t31r4] [e63t38r3] [e64t24r1] [e65t4r0] [e66t1r4] [e67t10r3] [e68t42r0] [e69t20r2] [e70t29r0] [e71t41r4] [e72t23r0] [e73t10r4] [e74t31r1] [e75t40r0] [e76t42r4] [e77t24r0] [e78t2r1] [e79t40r3] [e80t23r1] [e81t1r0] [e82t31r0] [e83t2r0] [e84t11r2] [e85t3r1] [e86t30r1] [e87t20r4] [e88t32r0] [e89t13r3] [e90t13r0] [e91t30r0] [e92t30r4] [e93t37r0] [e94t39r3] [e95t22r3] [e96t42r1] [e97t21r0] [e98t31r3] [e99t21r1] 
+end solution 4
+end try 4
+begin try 5
+best 56 time 0.671875
+best 55 time 1.078125
+best 54 time 1.515625
+best 53 time 2.265625
+best 52 time 3.500000
+best 43 time 4.281250
+best 37 time 5.578125
+best 36 time 6.812500
+best 35 time 7.093750
+best 31 time 35.890625
+best 30 time 42.546875
+best 29 time 45.734375
+best 28 time 46.609375
+best 27 time 47.562500
+begin solution 5
+feasible: evaluation function = 27
+[e0t31r0] [e1t32r0] [e2t14r0] [e3t32r3] [e4t22r1] [e5t24r4] [e6t23r3] [e7t11r4] [e8t30r0] [e9t34r1] [e10t22r3] [e11t13r3] [e12t20r0] [e13t10r3] [e14t41r4] [e15t4r0] [e16t43r4] [e17t2r4] [e18t5r4] [e19t3r3] [e20t39r0] [e21t21r0] [e22t31r3] [e23t10r4] [e24t24r2] [e25t25r3] [e26t15r0] [e27t12r3] [e28t3r0] [e29t2r2] [e30t29r0] [e31t12r0] [e32t42r4] [e33t11r2] [e34t11r1] [e35t4r4] [e36t40r4] [e37t15r3] [e38t21r1] [e39t29r4] [e40t42r0] [e41t14r1] [e42t20r1] [e43t6r4] [e44t7r0] [e45t39r1] [e46t22r4] [e47t16r4] [e48t14r4] [e49t33r0] [e50t2r1] [e51t40r0] [e52t21r3] [e53t13r4] [e54t32r4] [e55t41r3] [e56t34r3] [e57t38r0] [e58t13r2] [e59t1r1] [e60t4r3] [e61t33r3] [e62t31r4] [e63t40r3] [e64t30r1] [e65t2r0] [e66t30r4] [e67t25r0] [e68t28r0] [e69t33r2] [e70t11r0] [e71t12r4] [e72t13r0] [e73t2r3] [e74t31r1] [e75t38r4] [e76t23r4] [e77t23r0] [e78t4r1] [e79t5r3] [e80t5r1] [e81t3r1] [e82t1r0] [e83t15r1] [e84t41r0] [e85t13r1] [e86t5r2] [e87t21r4] [e88t22r0] [e89t3r4] [e90t37r0] [e91t34r0] [e92t39r4] [e93t5r0] [e94t24r3] [e95t42r3] [e96t33r1] [e97t24r0] [e98t33r4] [e99t12r1] 
+end solution 5
+end try 5
+begin try 6
+best 57 time 0.500000
+best 50 time 0.796875
+best 49 time 1.296875
+best 39 time 3.296875
+best 36 time 7.656250
+best 34 time 8.578125
+best 32 time 9.843750
+best 27 time 18.078125
+best 24 time 19.984375
+best 20 time 22.046875
+best 19 time 60.125000
+best 18 time 68.015625
+best 17 time 68.546875
+best 16 time 74.453125
+best 15 time 78.187500
+begin solution 6
+feasible: evaluation function = 15
+[e0t16r0] [e1t20r0] [e2t39r0] [e3t14r3] [e4t20r1] [e5t1r4] [e6t20r3] [e7t28r4] [e8t13r2] [e9t29r1] [e10t12r3] [e11t40r3] [e12t19r0] [e13t4r3] [e14t5r4] [e15t32r0] [e16t30r4] [e17t14r4] [e18t16r4] [e19t11r3] [e20t29r0] [e21t30r0] [e22t21r3] [e23t32r4] [e24t7r2] [e25t10r3] [e26t21r2] [e27t2r3] [e28t6r0] [e29t5r2] [e30t11r0] [e31t15r0] [e32t6r4] [e33t1r2] [e34t31r1] [e35t4r4] [e36t31r0] [e37t30r3] [e38t30r1] [e39t24r4] [e40t24r2] [e41t41r0] [e42t39r1] [e43t22r4] [e44t7r0] [e45t42r1] [e46t3r4] [e47t29r4] [e48t31r4] [e49t41r1] [e50t19r1] [e51t24r0] [e52t6r3] [e53t12r4] [e54t11r4] [e55t25r3] [e56t22r3] [e57t42r0] [e58t28r2] [e59t23r2] [e60t41r3] [e61t41r4] [e62t2r4] [e63t42r3] [e64t21r1] [e65t5r0] [e66t13r4] [e67t3r0] [e68t12r0] [e69t29r2] [e70t14r0] [e71t23r4] [e72t33r0] [e73t28r0] [e74t28r1] [e75t22r0] [e76t39r4] [e77t23r0] [e78t43r1] [e79t32r3] [e80t10r0] [e81t33r1] [e82t21r0] [e83t22r1] [e84t25r0] [e85t5r1] [e86t23r1] [e87t38r4] [e88t40r2] [e89t15r3] [e90t20r4] [e91t40r0] [e92t21r4] [e93t13r0] [e94t31r3] [e95t29r3] [e96t34r0] [e97t1r0] [e98t43r0] [e99t2r0] 
+end solution 6
+end try 6
+begin try 7
+best 71 time 0.468750
+best 65 time 0.859375
+best 62 time 1.171875
+best 56 time 2.203125
+best 52 time 4.281250
+best 50 time 5.031250
+best 49 time 5.468750
+best 45 time 6.046875
+best 44 time 6.968750
+best 41 time 7.203125
+best 40 time 8.312500
+best 35 time 8.906250
+best 34 time 10.125000
+best 33 time 10.515625
+best 31 time 11.390625
+best 30 time 13.953125
+best 29 time 21.656250
+best 28 time 24.062500
+best 26 time 25.125000
+best 25 time 30.687500
+best 24 time 57.718750
+best 23 time 63.656250
+best 22 time 66.828125
+best 21 time 74.875000
+best 20 time 76.750000
+begin solution 7
+feasible: evaluation function = 20
+[e0t21r0] [e1t23r0] [e2t42r0] [e3t20r3] [e4t6r0] [e5t39r4] [e6t38r3] [e7t32r4] [e8t20r2] [e9t39r1] [e10t21r3] [e11t33r3] [e12t29r0] [e13t41r3] [e14t43r4] [e15t4r0] [e16t4r4] [e17t6r4] [e18t16r4] [e19t5r3] [e20t15r0] [e21t20r0] [e22t22r3] [e23t3r4] [e24t30r2] [e25t41r4] [e26t1r0] [e27t29r3] [e28t19r0] [e29t40r2] [e30t30r0] [e31t34r0] [e32t42r4] [e33t4r2] [e34t2r1] [e35t15r4] [e36t2r0] [e37t3r3] [e38t7r1] [e39t30r4] [e40t22r2] [e41t42r1] [e42t6r1] [e43t24r4] [e44t14r0] [e45t15r1] [e46t21r4] [e47t14r4] [e48t2r4] [e49t37r1] [e50t21r1] [e51t41r0] [e52t7r0] [e53t22r4] [e54t40r4] [e55t12r3] [e56t32r3] [e57t13r0] [e58t15r2] [e59t39r2] [e60t31r3] [e61t30r3] [e62t31r4] [e63t13r3] [e64t32r1] [e65t40r0] [e66t23r4] [e67t38r0] [e68t31r0] [e69t21r2] [e70t13r4] [e71t29r4] [e72t28r0] [e73t6r3] [e74t5r0] [e75t16r0] [e76t11r4] [e77t24r0] [e78t14r1] [e79t25r0] [e80t13r1] [e81t1r1] [e82t39r0] [e83t3r0] [e84t42r2] [e85t4r1] [e86t14r2] [e87t10r4] [e88t24r2] [e89t5r4] [e90t38r4] [e91t22r0] [e92t12r4] [e93t37r0] [e94t39r3] [e95t40r3] [e96t41r1] [e97t32r0] [e98t14r3] [e99t29r1] 
+end solution 7
+end try 7
+begin try 8
+best 66 time 0.515625
+best 64 time 1.656250
+best 51 time 2.156250
+best 47 time 2.328125
+best 37 time 4.203125
+best 35 time 6.687500
+best 32 time 15.390625
+best 31 time 16.109375
+best 28 time 21.765625
+best 26 time 24.921875
+best 25 time 28.859375
+best 24 time 29.406250
+best 23 time 34.531250
+best 22 time 39.390625
+best 21 time 53.453125
+best 19 time 61.578125
+best 18 time 67.203125
+begin solution 8
+feasible: evaluation function = 18
+[e0t10r4] [e1t28r0] [e2t4r1] [e3t11r3] [e4t10r1] [e5t3r4] [e6t14r3] [e7t40r4] [e8t20r0] [e9t10r0] [e10t3r3] [e11t39r3] [e12t16r2] [e13t6r3] [e14t12r4] [e15t4r0] [e16t4r4] [e17t23r4] [e18t25r4] [e19t10r3] [e20t23r0] [e21t15r0] [e22t29r3] [e23t37r4] [e24t38r2] [e25t20r3] [e26t34r2] [e27t31r3] [e28t37r0] [e29t19r2] [e30t41r0] [e31t38r0] [e32t13r4] [e33t28r2] [e34t2r0] [e35t30r4] [e36t34r0] [e37t43r3] [e38t30r1] [e39t32r4] [e40t22r2] [e41t37r1] [e42t20r1] [e43t14r4] [e44t31r0] [e45t13r1] [e46t1r4] [e47t5r4] [e48t42r4] [e49t7r1] [e50t3r0] [e51t43r0] [e52t7r0] [e53t22r4] [e54t29r4] [e55t2r3] [e56t4r3] [e57t13r0] [e58t41r2] [e59t31r1] [e60t12r3] [e61t30r3] [e62t21r4] [e63t13r3] [e64t40r1] [e65t5r0] [e66t20r4] [e67t11r0] [e68t16r0] [e69t20r2] [e70t33r0] [e71t15r4] [e72t32r0] [e73t11r4] [e74t19r1] [e75t22r0] [e76t38r4] [e77t12r0] [e78t12r1] [e79t33r3] [e80t41r1] [e81t24r0] [e82t21r0] [e83t22r1] [e84t42r0] [e85t29r1] [e86t7r2] [e87t39r4] [e88t1r0] [e89t24r3] [e90t14r0] [e91t19r0] [e92t28r4] [e93t29r0] [e94t2r4] [e95t21r3] [e96t16r1] [e97t40r0] [e98t30r0] [e99t3r1] 
+end solution 8
+end try 8
+begin try 9
+best 64 time 0.500000
+best 61 time 0.796875
+best 57 time 1.531250
+best 54 time 4.656250
+best 52 time 5.171875
+best 50 time 6.390625
+best 48 time 7.203125
+best 47 time 8.046875
+best 43 time 8.265625
+best 41 time 9.218750
+best 40 time 12.734375
+best 37 time 15.390625
+best 32 time 16.546875
+best 30 time 18.140625
+best 28 time 19.625000
+best 26 time 22.921875
+best 25 time 28.734375
+best 24 time 64.828125
+best 23 time 70.546875
+begin solution 9
+feasible: evaluation function = 23
+[e0t32r0] [e1t30r0] [e2t25r0] [e3t33r3] [e4t34r1] [e5t14r4] [e6t12r3] [e7t11r4] [e8t20r2] [e9t12r1] [e10t19r3] [e11t5r3] [e12t15r2] [e13t23r3] [e14t31r4] [e15t13r0] [e16t13r4] [e17t41r4] [e18t24r4] [e19t34r3] [e20t12r0] [e21t39r0] [e22t42r3] [e23t15r4] [e24t37r2] [e25t2r3] [e26t30r2] [e27t21r3] [e28t34r0] [e29t39r2] [e30t22r0] [e31t6r0] [e32t43r4] [e33t16r2] [e34t22r1] [e35t23r4] [e36t16r0] [e37t43r3] [e38t15r1] [e39t40r4] [e40t42r0] [e41t25r1] [e42t13r1] [e43t25r4] [e44t41r0] [e45t24r1] [e46t1r4] [e47t12r4] [e48t42r4] [e49t32r1] [e50t19r1] [e51t5r0] [e52t24r3] [e53t33r4] [e54t30r4] [e55t41r3] [e56t11r3] [e57t21r0] [e58t23r0] [e59t2r1] [e60t4r3] [e61t14r3] [e62t21r4] [e63t13r3] [e64t23r1] [e65t37r0] [e66t20r4] [e67t15r0] [e68t7r0] [e69t12r2] [e70t2r0] [e71t6r4] [e72t24r0] [e73t32r3] [e74t42r1] [e75t10r0] [e76t3r4] [e77t19r0] [e78t39r1] [e79t32r4] [e80t11r1] [e81t41r1] [e82t38r0] [e83t40r0] [e84t21r2] [e85t11r0] [e86t7r1] [e87t29r4] [e88t4r0] [e89t22r3] [e90t22r4] [e91t20r0] [e92t38r4] [e93t3r0] [e94t31r3] [e95t39r3] [e96t5r1] [e97t28r0] [e98t20r3] [e99t21r1] 
+end solution 9
+end try 9
+begin try 10
+best 90 time 0.312500
+best 84 time 0.734375
+best 83 time 1.390625
+best 71 time 1.968750
+best 66 time 2.375000
+best 65 time 2.812500
+best 58 time 3.031250
+best 56 time 3.750000
+best 55 time 10.265625
+best 54 time 10.375000
+best 47 time 10.984375
+best 46 time 11.109375
+best 45 time 11.343750
+best 42 time 12.203125
+best 41 time 15.421875
+best 38 time 16.734375
+best 37 time 17.031250
+best 33 time 17.406250
+best 31 time 21.484375
+best 30 time 26.265625
+best 29 time 35.625000
+best 27 time 44.312500
+best 25 time 65.187500
+best 22 time 65.421875
+best 21 time 67.484375
+best 19 time 77.328125
+begin solution 10
+feasible: evaluation function = 19
+[e0t24r0] [e1t42r0] [e2t30r1] [e3t3r3] [e4t4r1] [e5t11r4] [e6t5r3] [e7t39r4] [e8t6r2] [e9t40r1] [e10t13r3] [e11t22r3] [e12t38r0] [e13t15r3] [e14t41r4] [e15t6r0] [e16t13r4] [e17t32r4] [e18t34r4] [e19t41r3] [e20t40r0] [e21t29r0] [e22t20r3] [e23t19r4] [e24t29r2] [e25t28r3] [e26t39r0] [e27t12r3] [e28t4r0] [e29t42r2] [e30t34r0] [e31t23r0] [e32t16r4] [e33t38r2] [e34t38r1] [e35t21r4] [e36t5r0] [e37t7r3] [e38t23r1] [e39t30r4] [e40t28r0] [e41t24r1] [e42t43r0] [e43t15r4] [e44t32r0] [e45t20r1] [e46t2r4] [e47t22r4] [e48t23r4] [e49t29r1] [e50t13r0] [e51t22r0] [e52t41r0] [e53t24r4] [e54t3r4] [e55t4r3] [e56t6r3] [e57t30r0] [e58t24r2] [e59t13r1] [e60t21r3] [e61t39r3] [e62t12r4] [e63t30r3] [e64t31r1] [e65t31r0] [e66t42r4] [e67t31r3] [e68t32r3] [e69t40r2] [e70t3r0] [e71t33r4] [e72t14r0] [e73t43r3] [e74t43r1] [e75t38r4] [e76t20r4] [e77t25r0] [e78t2r0] [e79t40r3] [e80t42r1] [e81t33r0] [e82t16r0] [e83t14r1] [e84t21r2] [e85t6r1] [e86t2r1] [e87t29r4] [e88t41r2] [e89t33r3] [e90t5r4] [e91t11r0] [e92t14r4] [e93t20r0] [e94t4r4] [e95t29r3] [e96t34r1] [e97t21r0] [e98t12r0] [e99t10r0] 
+end solution 10
+end try 10
+begin try 11
+best 68 time 0.609375
+best 60 time 1.156250
+best 51 time 1.468750
+best 45 time 2.578125
+best 42 time 3.343750
+best 39 time 4.656250
+best 38 time 5.734375
+best 37 time 6.578125
+best 35 time 6.890625
+best 34 time 7.640625
+best 31 time 15.296875
+best 30 time 15.718750
+best 29 time 15.968750
+best 27 time 17.468750
+best 26 time 52.359375
+best 25 time 52.890625
+best 24 time 53.859375
+best 23 time 58.593750
+best 22 time 72.937500
+begin solution 11
+feasible: evaluation function = 22
+[e0t34r4] [e1t12r0] [e2t34r1] [e3t32r4] [e4t3r1] [e5t16r4] [e6t13r3] [e7t22r4] [e8t42r0] [e9t2r1] [e10t32r3] [e11t37r3] [e12t4r2] [e13t21r3] [e14t5r4] [e15t15r0] [e16t15r4] [e17t2r4] [e18t30r4] [e19t23r3] [e20t2r0] [e21t5r0] [e22t14r3] [e23t21r4] [e24t40r0] [e25t40r3] [e26t7r0] [e27t41r3] [e28t11r0] [e29t20r2] [e30t4r0] [e31t33r0] [e32t6r4] [e33t30r2] [e34t11r1] [e35t13r4] [e36t14r0] [e37t3r3] [e38t15r1] [e39t40r4] [e40t40r2] [e41t34r0] [e42t19r0] [e43t29r4] [e44t23r0] [e45t31r0] [e46t28r4] [e47t4r4] [e48t14r4] [e49t19r1] [e50t5r1] [e51t25r0] [e52t38r3] [e53t25r4] [e54t12r4] [e55t30r3] [e56t39r4] [e57t30r0] [e58t29r2] [e59t19r2] [e60t12r3] [e61t29r3] [e62t41r4] [e63t10r3] [e64t23r1] [e65t20r0] [e66t42r4] [e67t24r0] [e68t3r0] [e69t2r2] [e70t29r0] [e71t24r4] [e72t28r0] [e73t24r3] [e74t31r1] [e75t23r4] [e76t20r4] [e77t43r0] [e78t38r1] [e79t15r3] [e80t13r1] [e81t16r0] [e82t1r0] [e83t32r0] [e84t5r2] [e85t12r1] [e86t38r2] [e87t19r4] [e88t28r2] [e89t31r3] [e90t3r4] [e91t39r0] [e92t31r4] [e93t38r0] [e94t11r3] [e95t39r3] [e96t7r1] [e97t13r0] [e98t4r3] [e99t22r0] 
+end solution 11
+end try 11
+begin try 12
+best 59 time 0.578125
+best 40 time 1.093750
+best 38 time 1.984375
+best 37 time 3.828125
+best 34 time 14.937500
+best 33 time 15.203125
+best 29 time 15.812500
+best 28 time 16.375000
+best 25 time 17.062500
+best 24 time 28.968750
+best 23 time 63.625000
+best 22 time 67.265625
+best 21 time 73.468750
+best 20 time 76.359375
+begin solution 12
+feasible: evaluation function = 20
+[e0t40r0] [e1t1r0] [e2t40r1] [e3t13r3] [e4t19r1] [e5t29r4] [e6t11r3] [e7t22r4] [e8t12r2] [e9t23r1] [e10t23r3] [e11t33r3] [e12t6r2] [e13t14r3] [e14t20r4] [e15t16r0] [e16t30r4] [e17t40r4] [e18t32r4] [e19t31r3] [e20t24r0] [e21t22r0] [e22t21r4] [e23t11r4] [e24t14r2] [e25t14r4] [e26t21r2] [e27t21r3] [e28t12r0] [e29t43r2] [e30t13r0] [e31t34r0] [e32t2r4] [e33t42r2] [e34t3r0] [e35t31r4] [e36t10r0] [e37t30r3] [e38t30r1] [e39t5r4] [e40t5r2] [e41t15r0] [e42t32r1] [e43t3r4] [e44t19r0] [e45t24r1] [e46t23r4] [e47t38r4] [e48t15r4] [e49t15r1] [e50t29r0] [e51t14r0] [e52t21r0] [e53t39r4] [e54t13r4] [e55t4r3] [e56t30r0] [e57t43r0] [e58t31r2] [e59t14r1] [e60t32r3] [e61t5r3] [e62t7r4] [e63t43r3] [e64t12r1] [e65t41r0] [e66t41r4] [e67t28r0] [e68t5r0] [e69t20r0] [e70t22r3] [e71t4r4] [e72t33r0] [e73t40r3] [e74t42r1] [e75t23r0] [e76t6r4] [e77t6r0] [e78t10r1] [e79t32r0] [e80t39r0] [e81t37r0] [e82t42r0] [e83t22r1] [e84t15r2] [e85t16r1] [e86t21r1] [e87t24r4] [e88t40r2] [e89t39r3] [e90t11r0] [e91t4r0] [e92t42r4] [e93t31r0] [e94t12r3] [e95t20r3] [e96t34r1] [e97t25r0] [e98t10r3] [e99t41r1] 
+end solution 12
+end try 12
+begin try 13
+best 75 time 0.484375
+best 58 time 0.828125
+best 57 time 1.390625
+best 55 time 2.156250
+best 53 time 3.093750
+best 49 time 3.546875
+best 47 time 3.625000
+best 43 time 8.156250
+best 42 time 9.593750
+best 41 time 10.484375
+best 39 time 11.031250
+best 38 time 11.328125
+best 37 time 12.328125
+best 36 time 18.109375
+best 35 time 45.375000
+best 33 time 46.750000
+best 30 time 49.140625
+best 29 time 62.796875
+best 28 time 64.125000
+best 27 time 67.937500
+best 26 time 68.203125
+best 25 time 68.718750
+best 23 time 69.125000
+best 22 time 72.312500
+begin solution 13
+feasible: evaluation function = 22
+[e0t34r0] [e1t23r0] [e2t34r1] [e3t33r3] [e4t31r1] [e5t15r4] [e6t13r3] [e7t40r4] [e8t13r2] [e9t39r1] [e10t4r3] [e11t21r3] [e12t6r0] [e13t19r3] [e14t28r4] [e15t21r0] [e16t4r4] [e17t7r4] [e18t24r4] [e19t6r3] [e20t41r0] [e21t5r0] [e22t10r3] [e23t2r4] [e24t32r2] [e25t31r4] [e26t23r2] [e27t5r3] [e28t22r0] [e29t20r4] [e30t10r0] [e31t32r0] [e32t29r4] [e33t40r2] [e34t1r2] [e35t11r4] [e36t1r4] [e37t23r3] [e38t13r1] [e39t39r4] [e40t42r2] [e41t22r1] [e42t38r1] [e43t6r4] [e44t25r0] [e45t43r1] [e46t30r4] [e47t25r4] [e48t22r4] [e49t15r0] [e50t1r1] [e51t13r0] [e52t43r0] [e53t16r4] [e54t21r4] [e55t31r3] [e56t24r3] [e57t14r0] [e58t20r2] [e59t15r1] [e60t3r3] [e61t20r3] [e62t32r4] [e63t14r3] [e64t23r1] [e65t20r0] [e66t33r4] [e67t31r0] [e68t11r0] [e69t41r2] [e70t14r4] [e71t12r4] [e72t24r0] [e73t7r0] [e74t40r1] [e75t39r0] [e76t3r4] [e77t38r0] [e78t16r0] [e79t7r3] [e80t5r1] [e81t19r1] [e82t42r0] [e83t6r1] [e84t14r2] [e85t12r1] [e86t2r1] [e87t41r4] [e88t30r0] [e89t5r4] [e90t13r4] [e91t19r0] [e92t23r4] [e93t2r0] [e94t22r3] [e95t32r3] [e96t5r2] [e97t40r0] [e98t12r0] [e99t1r0] 
+end solution 13
+end try 13
+begin try 14
+best 61 time 0.718750
+best 60 time 1.078125
+best 57 time 1.890625
+best 55 time 3.078125
+best 54 time 3.671875
+best 44 time 4.375000
+best 43 time 5.000000
+best 35 time 5.359375
+best 33 time 7.578125
+best 32 time 9.781250
+best 29 time 15.312500
+best 28 time 16.953125
+best 27 time 17.578125
+best 25 time 20.625000
+best 24 time 22.968750
+best 22 time 43.265625
+best 18 time 47.015625
+best 16 time 49.750000
+best 14 time 50.437500
+begin solution 14
+feasible: evaluation function = 14
+[e0t2r0] [e1t13r0] [e2t16r0] [e3t15r3] [e4t6r0] [e5t3r4] [e6t25r3] [e7t30r4] [e8t33r2] [e9t16r1] [e10t24r3] [e11t13r3] [e12t11r2] [e13t4r3] [e14t12r4] [e15t31r0] [e16t31r4] [e17t19r4] [e18t41r4] [e19t21r3] [e20t28r0] [e21t30r0] [e22t33r3] [e23t39r4] [e24t14r2] [e25t13r4] [e26t10r0] [e27t30r3] [e28t24r0] [e29t3r2] [e30t22r0] [e31t14r0] [e32t34r4] [e33t40r2] [e34t34r2] [e35t21r4] [e36t32r0] [e37t32r3] [e38t29r1] [e39t15r4] [e40t15r0] [e41t1r1] [e42t12r0] [e43t42r4] [e44t40r0] [e45t28r1] [e46t24r4] [e47t40r4] [e48t33r4] [e49t31r1] [e50t30r1] [e51t19r0] [e52t2r3] [e53t2r4] [e54t32r4] [e55t23r3] [e56t40r3] [e57t23r0] [e58t42r0] [e59t16r2] [e60t39r3] [e61t12r3] [e62t14r4] [e63t23r4] [e64t10r1] [e65t3r0] [e66t4r4] [e67t20r0] [e68t21r0] [e69t31r2] [e70t16r3] [e71t20r4] [e72t41r0] [e73t22r3] [e74t13r1] [e75t29r0] [e76t38r4] [e77t1r0] [e78t2r1] [e79t11r0] [e80t39r0] [e81t39r1] [e82t5r0] [e83t22r1] [e84t23r2] [e85t34r1] [e86t38r1] [e87t25r4] [e88t24r2] [e89t20r3] [e90t25r0] [e91t33r0] [e92t22r4] [e93t38r0] [e94t31r3] [e95t14r3] [e96t22r2] [e97t37r0] [e98t29r3] [e99t34r0] 
+end solution 14
+end try 14
+begin try 15
+best 68 time 0.343750
+best 61 time 0.812500
+best 60 time 1.734375
+best 53 time 2.187500
+best 51 time 2.406250
+best 50 time 3.343750
+best 41 time 4.906250
+best 33 time 7.015625
+best 32 time 7.312500
+best 31 time 8.484375
+best 29 time 9.421875
+best 26 time 14.171875
+best 25 time 16.265625
+best 24 time 16.796875
+best 23 time 56.921875
+best 22 time 71.921875
+best 21 time 76.656250
+begin solution 15
+feasible: evaluation function = 21
+[e0t4r0] [e1t37r0] [e2t22r1] [e3t14r3] [e4t1r0] [e5t4r4] [e6t38r3] [e7t30r4] [e8t42r2] [e9t32r1] [e10t22r3] [e11t3r3] [e12t39r2] [e13t31r3] [e14t16r4] [e15t30r0] [e16t3r4] [e17t6r4] [e18t39r4] [e19t5r3] [e20t41r0] [e21t23r0] [e22t4r3] [e23t11r4] [e24t37r2] [e25t12r4] [e26t30r2] [e27t20r3] [e28t20r0] [e29t20r2] [e30t22r0] [e31t13r0] [e32t15r4] [e33t10r0] [e34t15r1] [e35t38r4] [e36t31r0] [e37t32r3] [e38t7r0] [e39t43r4] [e40t34r2] [e41t12r0] [e42t40r1] [e43t2r4] [e44t3r0] [e45t1r1] [e46t13r4] [e47t40r4] [e48t31r4] [e49t39r1] [e50t13r1] [e51t39r0] [e52t2r0] [e53t10r4] [e54t14r4] [e55t12r3] [e56t1r3] [e57t15r0] [e58t38r0] [e59t37r4] [e60t2r3] [e61t25r3] [e62t33r4] [e63t15r3] [e64t3r1] [e65t29r0] [e66t42r4] [e67t41r3] [e68t23r3] [e69t32r0] [e70t41r4] [e71t24r4] [e72t25r0] [e73t6r0] [e74t21r1] [e75t42r0] [e76t32r4] [e77t11r0] [e78t2r1] [e79t1r4] [e80t33r0] [e81t29r1] [e82t21r0] [e83t7r1] [e84t38r2] [e85t37r1] [e86t19r0] [e87t23r4] [e88t2r2] [e89t5r4] [e90t40r0] [e91t34r0] [e92t21r4] [e93t16r0] [e94t24r3] [e95t19r3] [e96t5r0] [e97t24r0] [e98t39r3] [e99t33r1] 
+end solution 15
+end try 15
+begin try 16
+best 65 time 0.515625
+best 62 time 1.203125
+best 50 time 2.218750
+best 48 time 3.265625
+best 47 time 4.671875
+best 46 time 7.625000
+best 42 time 8.031250
+best 37 time 13.500000
+best 34 time 15.687500
+best 33 time 17.812500
+best 31 time 18.140625
+best 30 time 20.171875
+best 29 time 24.171875
+best 24 time 34.187500
+best 23 time 41.078125
+best 21 time 64.156250
+best 20 time 71.843750
+begin solution 16
+feasible: evaluation function = 20
+[e0t34r0] [e1t42r0] [e2t12r1] [e3t42r4] [e4t38r0] [e5t30r4] [e6t32r3] [e7t14r4] [e8t14r2] [e9t15r1] [e10t22r3] [e11t41r4] [e12t3r0] [e13t39r3] [e14t33r4] [e15t2r0] [e16t20r4] [e17t4r4] [e18t11r4] [e19t41r3] [e20t23r0] [e21t30r0] [e22t3r3] [e23t15r4] [e24t19r0] [e25t13r3] [e26t32r2] [e27t21r3] [e28t43r0] [e29t40r2] [e30t31r0] [e31t22r0] [e32t34r4] [e33t3r2] [e34t34r1] [e35t2r4] [e36t16r0] [e37t42r3] [e38t3r1] [e39t6r4] [e40t4r2] [e41t24r0] [e42t38r1] [e43t10r4] [e44t1r0] [e45t25r1] [e46t22r4] [e47t1r4] [e48t3r4] [e49t11r1] [e50t14r1] [e51t25r0] [e52t37r0] [e53t40r4] [e54t23r4] [e55t38r3] [e56t20r0] [e57t12r0] [e58t12r2] [e59t10r0] [e60t33r3] [e61t4r3] [e62t5r4] [e63t12r3] [e64t32r1] [e65t40r0] [e66t31r4] [e67t29r0] [e68t30r3] [e69t23r2] [e70t39r0] [e71t24r4] [e72t11r0] [e73t4r0] [e74t19r1] [e75t15r0] [e76t32r4] [e77t7r0] [e78t33r1] [e79t23r3] [e80t43r1] [e81t41r0] [e82t13r0] [e83t21r1] [e84t29r2] [e85t41r1] [e86t24r2] [e87t21r4] [e88t22r2] [e89t43r3] [e90t32r0] [e91t14r0] [e92t13r4] [e93t21r0] [e94t31r3] [e95t5r3] [e96t43r2] [e97t33r0] [e98t11r3] [e99t24r1] 
+end solution 16
+end try 16
+begin try 17
+best 88 time 0.375000
+best 84 time 1.140625
+best 61 time 1.515625
+best 59 time 2.312500
+best 51 time 2.546875
+best 50 time 3.656250
+best 49 time 7.093750
+best 47 time 9.203125
+best 46 time 12.125000
+best 39 time 12.828125
+best 38 time 13.250000
+best 34 time 18.531250
+best 32 time 18.843750
+best 31 time 27.093750
+best 30 time 40.328125
+best 28 time 49.765625
+best 27 time 53.656250
+best 26 time 57.390625
+best 24 time 59.281250
+best 22 time 59.625000
+best 21 time 60.312500
+best 20 time 60.593750
+best 18 time 62.875000
+begin solution 17
+feasible: evaluation function = 18
+[e0t33r0] [e1t6r0] [e2t2r1] [e3t31r3] [e4t30r1] [e5t15r4] [e6t40r3] [e7t3r4] [e8t41r2] [e9t38r1] [e10t3r3] [e11t32r3] [e12t32r0] [e13t4r3] [e14t29r4] [e15t5r0] [e16t22r4] [e17t24r4] [e18t31r4] [e19t33r3] [e20t19r0] [e21t11r0] [e22t12r3] [e23t21r4] [e24t1r0] [e25t5r3] [e26t7r0] [e27t14r3] [e28t30r0] [e29t33r2] [e30t12r0] [e31t14r0] [e32t30r4] [e33t3r2] [e34t3r1] [e35t11r4] [e36t16r0] [e37t7r3] [e38t22r0] [e39t38r4] [e40t38r0] [e41t15r1] [e42t23r0] [e43t5r4] [e44t28r0] [e45t28r1] [e46t13r4] [e47t32r4] [e48t6r4] [e49t12r1] [e50t43r0] [e51t10r0] [e52t22r3] [e53t34r4] [e54t4r4] [e55t39r3] [e56t28r3] [e57t41r0] [e58t22r2] [e59t1r1] [e60t29r3] [e61t33r4] [e62t14r4] [e63t41r3] [e64t6r1] [e65t13r0] [e66t23r4] [e67t16r3] [e68t11r3] [e69t5r2] [e70t40r0] [e71t2r4] [e72t3r0] [e73t24r0] [e74t41r1] [e75t20r0] [e76t20r4] [e77t25r0] [e78t29r0] [e79t4r0] [e80t31r0] [e81t21r1] [e82t21r0] [e83t33r1] [e84t1r2] [e85t10r1] [e86t39r0] [e87t19r4] [e88t13r2] [e89t23r3] [e90t40r4] [e91t34r0] [e92t39r4] [e93t2r0] [e94t12r4] [e95t37r3] [e96t1r4] [e97t15r0] [e98t42r0] [e99t22r1] 
+end solution 17
+end try 17
+begin try 18
+best 83 time 0.531250
+best 79 time 1.234375
+best 74 time 1.843750
+best 73 time 2.328125
+best 70 time 3.625000
+best 69 time 4.109375
+best 66 time 4.375000
+best 64 time 5.015625
+best 61 time 5.593750
+best 55 time 5.937500
+best 46 time 6.406250
+best 44 time 6.703125
+best 41 time 7.250000
+best 39 time 7.687500
+best 37 time 8.125000
+best 35 time 9.437500
+best 34 time 20.578125
+best 33 time 23.968750
+best 32 time 25.953125
+best 31 time 29.984375
+best 30 time 34.187500
+best 27 time 34.781250
+best 26 time 36.421875
+best 25 time 40.609375
+best 22 time 55.796875
+best 20 time 59.062500
+best 19 time 65.250000
+begin solution 18
+feasible: evaluation function = 19
+[e0t1r0] [e1t12r0] [e2t6r1] [e3t2r3] [e4t4r1] [e5t15r4] [e6t31r3] [e7t40r4] [e8t25r0] [e9t39r1] [e10t10r3] [e11t13r3] [e12t21r2] [e13t15r3] [e14t10r4] [e15t7r0] [e16t31r4] [e17t29r4] [e18t42r4] [e19t28r3] [e20t34r0] [e21t2r0] [e22t5r3] [e23t21r4] [e24t20r0] [e25t13r4] [e26t34r2] [e27t23r3] [e28t4r0] [e29t12r2] [e30t3r0] [e31t14r0] [e32t11r4] [e33t20r2] [e34t20r1] [e35t4r4] [e36t20r4] [e37t6r3] [e38t31r0] [e39t22r4] [e40t22r2] [e41t11r1] [e42t38r0] [e43t43r4] [e44t6r0] [e45t32r1] [e46t14r4] [e47t41r4] [e48t5r4] [e49t12r1] [e50t33r1] [e51t32r0] [e52t39r0] [e53t24r4] [e54t12r4] [e55t32r3] [e56t21r3] [e57t11r0] [e58t28r0] [e59t15r1] [e60t12r3] [e61t22r3] [e62t23r4] [e63t11r3] [e64t34r1] [e65t5r0] [e66t30r4] [e67t14r3] [e68t4r3] [e69t3r2] [e70t33r3] [e71t33r4] [e72t42r0] [e73t29r0] [e74t24r1] [e75t41r0] [e76t2r4] [e77t21r0] [e78t3r1] [e79t41r3] [e80t40r0] [e81t29r1] [e82t16r0] [e83t40r1] [e84t2r2] [e85t43r0] [e86t42r1] [e87t3r4] [e88t1r2] [e89t30r3] [e90t33r0] [e91t15r0] [e92t32r4] [e93t22r0] [e94t1r3] [e95t16r3] [e96t32r2] [e97t24r0] [e98t3r3] [e99t16r1] 
+end solution 18
+end try 18
+begin try 19
+best 73 time 0.546875
+best 70 time 1.031250
+best 69 time 1.234375
+best 65 time 1.578125
+best 62 time 2.062500
+best 56 time 2.546875
+best 54 time 3.484375
+best 53 time 3.828125
+best 51 time 4.250000
+best 50 time 4.531250
+best 42 time 6.140625
+best 41 time 15.031250
+best 38 time 15.968750
+best 37 time 16.546875
+best 36 time 20.109375
+best 35 time 20.375000
+best 32 time 21.640625
+best 31 time 38.203125
+best 28 time 41.734375
+best 27 time 47.718750
+best 25 time 51.296875
+best 24 time 58.078125
+best 23 time 66.453125
+begin solution 19
+feasible: evaluation function = 23
+[e0t42r0] [e1t31r0] [e2t20r0] [e3t33r3] [e4t15r0] [e5t31r4] [e6t41r3] [e7t38r4] [e8t25r0] [e9t37r1] [e10t23r3] [e11t13r3] [e12t4r2] [e13t39r3] [e14t11r4] [e15t5r0] [e16t32r4] [e17t41r4] [e18t20r4] [e19t30r3] [e20t3r0] [e21t24r0] [e22t43r3] [e23t15r4] [e24t3r2] [e25t2r3] [e26t31r2] [e27t6r3] [e28t34r0] [e29t22r2] [e30t32r0] [e31t21r0] [e32t12r4] [e33t41r2] [e34t21r2] [e35t42r4] [e36t33r4] [e37t11r3] [e38t32r1] [e39t24r4] [e40t24r2] [e41t20r1] [e42t12r0] [e43t30r4] [e44t10r0] [e45t40r1] [e46t23r4] [e47t10r4] [e48t4r4] [e49t4r1] [e50t7r0] [e51t1r0] [e52t14r0] [e53t39r4] [e54t22r4] [e55t5r3] [e56t4r3] [e57t40r0] [e58t19r0] [e59t39r0] [e60t12r3] [e61t42r3] [e62t3r4] [e63t40r4] [e64t31r1] [e65t22r0] [e66t25r4] [e67t40r3] [e68t33r0] [e69t32r2] [e70t22r3] [e71t2r4] [e72t29r0] [e73t29r3] [e74t30r0] [e75t37r0] [e76t14r4] [e77t38r0] [e78t12r1] [e79t3r3] [e80t41r1] [e81t21r1] [e82t23r0] [e83t33r1] [e84t34r2] [e85t5r1] [e86t11r1] [e87t13r4] [e88t23r2] [e89t21r3] [e90t41r0] [e91t43r0] [e92t5r4] [e93t11r0] [e94t21r4] [e95t7r3] [e96t1r2] [e97t4r0] [e98t6r0] [e99t1r1] 
+end solution 19
+end try 19
+begin try 20
+best 67 time 0.484375
+best 62 time 1.296875
+best 61 time 2.218750
+best 50 time 3.484375
+best 49 time 3.796875
+best 48 time 3.937500
+best 41 time 4.359375
+best 39 time 5.687500
+best 37 time 18.046875
+best 36 time 21.093750
+best 29 time 23.500000
+best 28 time 26.562500
+best 27 time 33.406250
+best 26 time 50.968750
+best 25 time 51.484375
+best 23 time 69.828125
+begin solution 20
+feasible: evaluation function = 23
+[e0t24r0] [e1t23r0] [e2t37r0] [e3t32r4] [e4t16r1] [e5t5r4] [e6t42r3] [e7t15r4] [e8t6r2] [e9t14r1] [e10t32r3] [e11t33r3] [e12t43r2] [e13t5r3] [e14t42r4] [e15t11r0] [e16t12r4] [e17t3r4] [e18t2r4] [e19t20r3] [e20t40r0] [e21t2r0] [e22t22r3] [e23t24r4] [e24t30r0] [e25t15r3] [e26t34r0] [e27t4r3] [e28t39r0] [e29t41r2] [e30t3r0] [e31t6r0] [e32t43r4] [e33t21r2] [e34t6r1] [e35t11r4] [e36t7r4] [e37t37r3] [e38t3r1] [e39t13r4] [e40t13r0] [e41t42r1] [e42t34r1] [e43t41r4] [e44t12r0] [e45t22r1] [e46t16r4] [e47t10r4] [e48t38r4] [e49t31r1] [e50t21r1] [e51t32r0] [e52t14r4] [e53t30r4] [e54t31r4] [e55t14r3] [e56t31r0] [e57t41r0] [e58t39r2] [e59t5r1] [e60t23r3] [e61t30r3] [e62t4r4] [e63t41r3] [e64t38r1] [e65t38r0] [e66t6r4] [e67t19r0] [e68t2r3] [e69t34r2] [e70t15r0] [e71t39r4] [e72t33r0] [e73t21r3] [e74t32r1] [e75t16r0] [e76t23r4] [e77t7r0] [e78t43r1] [e79t40r3] [e80t4r1] [e81t1r0] [e82t4r0] [e83t21r0] [e84t31r2] [e85t39r1] [e86t7r1] [e87t22r4] [e88t11r2] [e89t1r3] [e90t42r0] [e91t14r0] [e92t40r4] [e93t22r0] [e94t3r3] [e95t31r3] [e96t32r2] [e97t5r0] [e98t43r0] [e99t2r1] 
+end solution 20
+end try 20
+begin try 21
+best 61 time 0.468750
+best 59 time 0.734375
+best 57 time 1.953125
+best 56 time 2.968750
+best 49 time 3.437500
+best 47 time 4.609375
+best 46 time 6.015625
+best 39 time 6.703125
+best 37 time 7.890625
+best 36 time 8.734375
+best 35 time 11.187500
+best 34 time 15.375000
+best 33 time 16.500000
+best 28 time 23.812500
+best 27 time 38.718750
+best 25 time 43.609375
+best 24 time 49.015625
+best 23 time 53.453125
+begin solution 21
+feasible: evaluation function = 23
+[e0t1r4] [e1t1r0] [e2t42r0] [e3t11r3] [e4t12r1] [e5t15r4] [e6t33r3] [e7t19r4] [e8t4r0] [e9t20r1] [e10t21r3] [e11t40r3] [e12t2r2] [e13t3r3] [e14t24r4] [e15t24r0] [e16t14r4] [e17t39r4] [e18t41r4] [e19t41r3] [e20t32r0] [e21t23r0] [e22t2r3] [e23t29r4] [e24t21r2] [e25t20r4] [e26t22r2] [e27t42r3] [e28t12r0] [e29t4r2] [e30t30r0] [e31t41r0] [e32t13r4] [e33t31r2] [e34t23r1] [e35t25r4] [e36t28r0] [e37t22r3] [e38t22r1] [e39t5r4] [e40t1r2] [e41t5r0] [e42t33r1] [e43t12r4] [e44t14r0] [e45t32r1] [e46t21r4] [e47t42r4] [e48t23r4] [e49t4r1] [e50t10r1] [e51t37r0] [e52t21r0] [e53t16r4] [e54t22r4] [e55t20r3] [e56t22r0] [e57t38r0] [e58t25r0] [e59t23r2] [e60t14r3] [e61t1r3] [e62t3r4] [e63t38r3] [e64t39r1] [e65t2r0] [e66t4r4] [e67t40r0] [e68t31r3] [e69t10r2] [e70t19r3] [e71t38r4] [e72t11r0] [e73t3r0] [e74t3r1] [e75t39r0] [e76t30r4] [e77t6r0] [e78t21r1] [e79t10r0] [e80t43r0] [e81t40r1] [e82t20r0] [e83t15r0] [e84t29r0] [e85t24r1] [e86t13r1] [e87t2r4] [e88t13r2] [e89t40r4] [e90t33r0] [e91t19r0] [e92t34r4] [e93t13r0] [e94t37r3] [e95t43r3] [e96t37r1] [e97t31r0] [e98t39r3] [e99t28r1] 
+end solution 21
+end try 21
+begin try 22
+best 78 time 0.531250
+best 66 time 0.796875
+best 51 time 1.250000
+best 45 time 1.562500
+best 42 time 4.765625
+best 39 time 6.562500
+best 36 time 6.843750
+best 34 time 7.625000
+best 32 time 12.343750
+best 31 time 12.703125
+best 30 time 38.578125
+best 29 time 46.140625
+best 28 time 47.750000
+best 27 time 50.625000
+best 26 time 59.265625
+best 25 time 59.750000
+begin solution 22
+feasible: evaluation function = 25
+[e0t10r0] [e1t39r0] [e2t38r0] [e3t23r3] [e4t24r1] [e5t29r4] [e6t24r3] [e7t33r4] [e8t25r0] [e9t14r1] [e10t14r3] [e11t11r3] [e12t28r2] [e13t39r3] [e14t37r4] [e15t19r0] [e16t30r4] [e17t6r4] [e18t40r4] [e19t40r3] [e20t31r0] [e21t23r0] [e22t31r3] [e23t42r4] [e24t22r2] [e25t30r3] [e26t13r2] [e27t21r3] [e28t12r0] [e29t40r2] [e30t20r0] [e31t22r0] [e32t38r4] [e33t14r2] [e34t28r1] [e35t3r4] [e36t43r4] [e37t20r3] [e38t30r1] [e39t23r4] [e40t19r2] [e41t38r1] [e42t12r1] [e43t32r4] [e44t4r0] [e45t20r1] [e46t31r4] [e47t4r4] [e48t39r4] [e49t41r1] [e50t31r1] [e51t15r0] [e52t10r3] [e53t7r4] [e54t15r4] [e55t28r3] [e56t43r3] [e57t13r0] [e58t21r2] [e59t39r1] [e60t42r3] [e61t16r3] [e62t21r4] [e63t13r3] [e64t13r1] [e65t40r0] [e66t41r4] [e67t28r0] [e68t19r3] [e69t34r0] [e70t24r0] [e71t34r4] [e72t33r0] [e73t6r0] [e74t25r1] [e75t32r0] [e76t20r4] [e77t5r0] [e78t34r1] [e79t14r0] [e80t5r1] [e81t3r0] [e82t21r0] [e83t32r1] [e84t16r0] [e85t19r1] [e86t41r2] [e87t22r4] [e88t31r2] [e89t5r3] [e90t24r4] [e91t43r0] [e92t25r4] [e93t41r0] [e94t29r3] [e95t22r3] [e96t30r2] [e97t29r0] [e98t30r0] [e99t21r1] 
+end solution 22
+end try 22
+begin try 23
+best 76 time 0.531250
+best 66 time 1.000000
+best 65 time 1.359375
+best 55 time 1.890625
+best 51 time 2.234375
+best 47 time 2.500000
+best 43 time 3.687500
+best 42 time 5.765625
+best 37 time 6.734375
+best 34 time 8.468750
+best 33 time 16.781250
+best 32 time 24.375000
+best 31 time 25.328125
+best 27 time 48.500000
+best 23 time 53.562500
+begin solution 23
+feasible: evaluation function = 23
+[e0t23r0] [e1t4r0] [e2t5r1] [e3t14r3] [e4t13r1] [e5t22r4] [e6t29r3] [e7t4r4] [e8t22r2] [e9t3r1] [e10t40r3] [e11t11r3] [e12t13r2] [e13t31r3] [e14t11r4] [e15t33r0] [e16t21r4] [e17t13r4] [e18t12r4] [e19t42r3] [e20t5r0] [e21t14r0] [e22t19r3] [e23t16r4] [e24t42r2] [e25t24r3] [e26t4r2] [e27t25r3] [e28t13r0] [e29t10r0] [e30t34r0] [e31t12r0] [e32t10r4] [e33t1r0] [e34t37r0] [e35t33r4] [e36t28r0] [e37t32r3] [e38t37r1] [e39t24r4] [e40t24r0] [e41t42r1] [e42t29r1] [e43t3r4] [e44t20r0] [e45t30r1] [e46t15r4] [e47t20r4] [e48t31r4] [e49t32r0] [e50t12r1] [e51t22r0] [e52t30r4] [e53t14r4] [e54t28r4] [e55t39r3] [e56t20r3] [e57t30r0] [e58t19r0] [e59t24r1] [e60t22r3] [e61t38r3] [e62t23r4] [e63t30r3] [e64t1r1] [e65t42r0] [e66t40r4] [e67t43r3] [e68t33r3] [e69t3r2] [e70t38r0] [e71t32r4] [e72t2r0] [e73t13r3] [e74t20r1] [e75t6r0] [e76t29r4] [e77t41r0] [e78t28r1] [e79t21r3] [e80t21r1] [e81t11r0] [e82t43r0] [e83t14r1] [e84t23r2] [e85t19r1] [e86t7r0] [e87t2r4] [e88t41r2] [e89t34r3] [e90t29r0] [e91t25r0] [e92t41r4] [e93t21r0] [e94t39r4] [e95t23r3] [e96t1r2] [e97t3r0] [e98t15r0] [e99t23r1] 
+end solution 23
+end try 23
+begin try 24
+best 58 time 0.500000
+best 56 time 0.625000
+best 42 time 0.937500
+best 40 time 1.656250
+best 39 time 1.765625
+best 35 time 3.031250
+best 33 time 5.593750
+best 32 time 8.343750
+best 31 time 12.625000
+best 30 time 20.984375
+best 27 time 41.812500
+best 26 time 48.234375
+best 25 time 52.703125
+best 24 time 56.109375
+best 23 time 59.984375
+best 22 time 60.984375
+best 20 time 62.375000
+begin solution 24
+feasible: evaluation function = 20
+[e0t29r0] [e1t7r0] [e2t10r1] [e3t32r3] [e4t31r1] [e5t2r4] [e6t31r3] [e7t5r4] [e8t22r2] [e9t29r1] [e10t20r3] [e11t12r3] [e12t32r2] [e13t6r3] [e14t29r4] [e15t22r0] [e16t12r4] [e17t10r4] [e18t21r4] [e19t42r3] [e20t40r0] [e21t21r0] [e22t6r4] [e23t13r4] [e24t14r2] [e25t33r4] [e26t25r0] [e27t41r3] [e28t13r0] [e29t33r2] [e30t43r0] [e31t14r0] [e32t30r4] [e33t21r2] [e34t34r1] [e35t22r4] [e36t34r4] [e37t23r3] [e38t19r1] [e39t31r4] [e40t31r2] [e41t4r0] [e42t7r1] [e43t23r4] [e44t28r0] [e45t40r1] [e46t20r4] [e47t24r4] [e48t3r4] [e49t39r1] [e50t33r1] [e51t2r0] [e52t13r3] [e53t11r4] [e54t39r4] [e55t33r3] [e56t3r0] [e57t30r0] [e58t4r2] [e59t2r2] [e60t4r3] [e61t38r3] [e62t14r4] [e63t30r3] [e64t6r0] [e65t33r0] [e66t1r4] [e67t43r3] [e68t42r0] [e69t11r2] [e70t21r3] [e71t4r4] [e72t5r0] [e73t10r0] [e74t11r1] [e75t41r0] [e76t32r4] [e77t32r0] [e78t11r0] [e79t24r0] [e80t4r1] [e81t20r1] [e82t34r0] [e83t23r0] [e84t3r2] [e85t2r1] [e86t7r2] [e87t15r4] [e88t20r0] [e89t11r3] [e90t31r0] [e91t37r0] [e92t40r4] [e93t39r0] [e94t19r3] [e95t40r3] [e96t3r1] [e97t19r0] [e98t41r4] [e99t14r1] 
+end solution 24
+end try 24
+begin try 25
+best 63 time 0.531250
+best 61 time 0.828125
+best 60 time 1.093750
+best 58 time 2.281250
+best 53 time 3.046875
+best 47 time 3.671875
+best 43 time 5.156250
+best 41 time 6.046875
+best 40 time 10.218750
+best 39 time 11.578125
+best 36 time 11.875000
+best 34 time 12.781250
+best 33 time 16.078125
+best 32 time 20.625000
+best 30 time 20.984375
+best 29 time 23.343750
+best 28 time 25.468750
+best 27 time 26.281250
+best 26 time 33.515625
+best 25 time 36.718750
+best 24 time 52.906250
+begin solution 25
+feasible: evaluation function = 24
+[e0t33r0] [e1t5r0] [e2t19r0] [e3t13r3] [e4t12r1] [e5t12r4] [e6t28r3] [e7t5r4] [e8t13r2] [e9t28r0] [e10t30r3] [e11t31r3] [e12t38r2] [e13t21r3] [e14t34r4] [e15t41r0] [e16t22r4] [e17t20r4] [e18t6r4] [e19t6r3] [e20t37r0] [e21t31r0] [e22t42r3] [e23t28r4] [e24t14r2] [e25t23r3] [e26t43r0] [e27t16r3] [e28t30r0] [e29t32r2] [e30t13r0] [e31t6r0] [e32t33r4] [e33t30r2] [e34t1r1] [e35t41r4] [e36t2r0] [e37t40r3] [e38t28r1] [e39t14r4] [e40t1r0] [e41t19r1] [e42t29r1] [e43t11r4] [e44t12r0] [e45t33r1] [e46t24r4] [e47t43r4] [e48t42r4] [e49t22r0] [e50t24r0] [e51t32r0] [e52t30r4] [e53t7r4] [e54t2r4] [e55t29r3] [e56t5r3] [e57t4r0] [e58t5r2] [e59t32r1] [e60t22r3] [e61t37r3] [e62t39r4] [e63t4r3] [e64t14r1] [e65t14r0] [e66t13r4] [e67t11r0] [e68t12r3] [e69t4r2] [e70t23r4] [e71t4r4] [e72t3r0] [e73t20r3] [e74t30r1] [e75t38r0] [e76t3r4] [e77t21r0] [e78t15r0] [e79t10r0] [e80t7r0] [e81t39r0] [e82t20r0] [e83t40r1] [e84t31r2] [e85t7r1] [e86t39r2] [e87t38r4] [e88t21r2] [e89t21r4] [e90t32r4] [e91t29r0] [e92t29r4] [e93t23r0] [e94t1r3] [e95t15r3] [e96t2r1] [e97t40r0] [e98t3r3] [e99t39r1] 
+end solution 25
+end try 25
+begin try 26
+best 58 time 0.593750
+best 57 time 2.484375
+best 54 time 3.921875
+best 53 time 4.328125
+best 50 time 4.734375
+best 43 time 6.125000
+best 41 time 7.500000
+best 40 time 7.890625
+best 39 time 7.984375
+best 34 time 11.218750
+best 33 time 13.515625
+best 32 time 19.687500
+best 29 time 20.453125
+best 26 time 41.171875
+best 23 time 45.531250
+best 22 time 74.765625
+best 20 time 78.234375
+begin solution 26
+feasible: evaluation function = 20
+[e0t39r0] [e1t13r0] [e2t12r0] [e3t6r3] [e4t20r1] [e5t13r4] [e6t5r3] [e7t21r4] [e8t33r2] [e9t31r0] [e10t21r3] [e11t13r3] [e12t3r0] [e13t30r3] [e14t23r4] [e15t42r0] [e16t30r4] [e17t11r4] [e18t3r4] [e19t15r3] [e20t22r0] [e21t6r0] [e22t31r3] [e23t6r4] [e24t21r0] [e25t32r3] [e26t3r2] [e27t24r3] [e28t14r0] [e29t14r2] [e30t37r0] [e31t41r0] [e32t24r4] [e33t20r2] [e34t21r1] [e35t32r4] [e36t7r4] [e37t41r3] [e38t10r0] [e39t12r4] [e40t4r2] [e41t42r1] [e42t40r1] [e43t2r4] [e44t38r0] [e45t19r0] [e46t31r4] [e47t4r4] [e48t40r4] [e49t23r1] [e50t15r0] [e51t33r0] [e52t28r0] [e53t28r4] [e54t33r4] [e55t11r3] [e56t4r0] [e57t7r0] [e58t39r2] [e59t15r1] [e60t42r3] [e61t4r3] [e62t10r4] [e63t7r3] [e64t3r1] [e65t40r0] [e66t29r4] [e67t14r3] [e68t38r3] [e69t7r2] [e70t32r0] [e71t39r4] [e72t1r0] [e73t14r4] [e74t10r1] [e75t20r4] [e76t5r4] [e77t16r0] [e78t4r1] [e79t25r0] [e80t5r1] [e81t43r1] [e82t29r0] [e83t2r0] [e84t32r2] [e85t31r1] [e86t28r1] [e87t19r4] [e88t31r2] [e89t12r3] [e90t5r0] [e91t11r0] [e92t22r4] [e93t43r0] [e94t34r3] [e95t23r3] [e96t12r2] [e97t20r0] [e98t23r0] [e99t12r1] 
+end solution 26
+end try 26
+begin try 27
+best 56 time 0.484375
+best 53 time 0.718750
+best 47 time 1.140625
+best 46 time 1.687500
+best 43 time 2.015625
+best 42 time 2.640625
+best 40 time 4.156250
+best 39 time 9.390625
+best 36 time 10.125000
+best 33 time 10.828125
+best 32 time 18.484375
+best 31 time 26.015625
+best 30 time 34.187500
+best 29 time 49.640625
+best 27 time 54.718750
+begin solution 27
+feasible: evaluation function = 27
+[e0t15r0] [e1t37r0] [e2t3r0] [e3t23r3] [e4t11r1] [e5t11r4] [e6t31r3] [e7t12r4] [e8t32r0] [e9t31r0] [e10t43r3] [e11t2r3] [e12t40r0] [e13t13r3] [e14t38r4] [e15t12r0] [e16t21r4] [e17t5r4] [e18t14r4] [e19t20r3] [e20t10r0] [e21t7r0] [e22t3r3] [e23t31r4] [e24t30r0] [e25t42r3] [e26t37r2] [e27t6r3] [e28t22r0] [e29t3r2] [e30t23r0] [e31t1r0] [e32t15r4] [e33t32r2] [e34t40r1] [e35t23r4] [e36t42r0] [e37t21r3] [e38t42r1] [e39t40r4] [e40t28r2] [e41t4r1] [e42t14r1] [e43t24r4] [e44t25r0] [e45t33r1] [e46t30r4] [e47t22r4] [e48t13r4] [e49t15r1] [e50t34r1] [e51t39r0] [e52t25r3] [e53t39r4] [e54t41r4] [e55t29r3] [e56t39r3] [e57t33r0] [e58t15r2] [e59t30r1] [e60t40r3] [e61t5r3] [e62t3r4] [e63t33r3] [e64t37r1] [e65t14r0] [e66t10r4] [e67t4r3] [e68t30r3] [e69t10r2] [e70t41r3] [e71t29r4] [e72t28r0] [e73t5r0] [e74t22r1] [e75t11r0] [e76t20r4] [e77t38r0] [e78t3r1] [e79t14r3] [e80t6r0] [e81t23r1] [e82t24r0] [e83t2r1] [e84t38r2] [e85t24r1] [e86t41r1] [e87t19r4] [e88t30r2] [e89t4r4] [e90t34r0] [e91t4r0] [e92t32r4] [e93t41r0] [e94t6r4] [e95t7r3] [e96t16r0] [e97t2r0] [e98t42r4] [e99t29r0] 
+end solution 27
+end try 27
+begin try 28
+best 69 time 0.453125
+best 66 time 0.828125
+best 63 time 1.984375
+best 58 time 2.546875
+best 56 time 4.578125
+best 54 time 4.906250
+best 53 time 5.328125
+best 51 time 6.218750
+best 49 time 8.187500
+best 47 time 9.281250
+best 46 time 9.640625
+best 45 time 10.890625
+best 44 time 13.093750
+best 34 time 13.812500
+best 31 time 14.265625
+best 29 time 15.468750
+best 27 time 21.812500
+best 25 time 22.125000
+best 24 time 24.921875
+best 23 time 66.343750
+begin solution 28
+feasible: evaluation function = 23
+[e0t28r4] [e1t5r0] [e2t23r1] [e3t30r4] [e4t3r1] [e5t12r4] [e6t4r3] [e7t22r4] [e8t22r2] [e9t37r1] [e10t14r3] [e11t29r3] [e12t28r2] [e13t21r3] [e14t6r4] [e15t22r0] [e16t42r4] [e17t32r4] [e18t11r4] [e19t30r3] [e20t2r0] [e21t13r0] [e22t43r3] [e23t1r4] [e24t13r2] [e25t40r3] [e26t25r2] [e27t11r3] [e28t14r0] [e29t38r2] [e30t12r0] [e31t39r0] [e32t7r4] [e33t16r2] [e34t42r1] [e35t33r4] [e36t25r0] [e37t20r3] [e38t10r0] [e39t40r4] [e40t3r2] [e41t20r0] [e42t30r1] [e43t34r4] [e44t42r0] [e45t28r1] [e46t14r4] [e47t10r4] [e48t21r4] [e49t28r0] [e50t33r1] [e51t41r0] [e52t28r3] [e53t31r4] [e54t39r4] [e55t24r3] [e56t32r0] [e57t3r0] [e58t23r2] [e59t33r2] [e60t15r3] [e61t29r4] [e62t41r4] [e63t3r3] [e64t21r0] [e65t38r0] [e66t13r4] [e67t29r0] [e68t13r3] [e69t2r2] [e70t23r0] [e71t23r4] [e72t24r0] [e73t32r3] [e74t43r0] [e75t1r0] [e76t2r4] [e77t33r0] [e78t13r1] [e79t22r3] [e80t11r0] [e81t12r1] [e82t37r0] [e83t34r0] [e84t40r0] [e85t22r1] [e86t40r1] [e87t15r4] [e88t14r2] [e89t12r3] [e90t4r0] [e91t30r0] [e92t5r4] [e93t31r0] [e94t38r3] [e95t41r3] [e96t25r1] [e97t16r0] [e98t6r0] [e99t31r1] 
+end solution 28
+end try 28
+begin try 29
+best 58 time 0.531250
+best 51 time 3.437500
+best 50 time 4.812500
+best 45 time 5.468750
+best 44 time 6.062500
+best 42 time 12.453125
+best 41 time 13.250000
+best 40 time 13.562500
+best 39 time 16.812500
+best 32 time 17.390625
+best 31 time 17.875000
+best 30 time 18.109375
+best 28 time 23.468750
+best 27 time 76.031250
+best 26 time 76.671875
+best 25 time 78.484375
+best 24 time 79.578125
+begin solution 29
+feasible: evaluation function = 24
+[e0t4r0] [e1t23r0] [e2t30r1] [e3t23r3] [e4t43r1] [e5t5r4] [e6t40r3] [e7t41r4] [e8t12r2] [e9t2r1] [e10t31r3] [e11t32r3] [e12t14r2] [e13t24r3] [e14t2r4] [e15t32r0] [e16t40r4] [e17t11r4] [e18t42r4] [e19t12r3] [e20t42r0] [e21t41r0] [e22t22r3] [e23t14r4] [e24t24r2] [e25t33r3] [e26t32r2] [e27t39r3] [e28t29r0] [e29t33r0] [e30t11r0] [e31t31r0] [e32t3r4] [e33t23r2] [e34t39r1] [e35t12r4] [e36t13r0] [e37t34r3] [e38t22r1] [e39t23r4] [e40t39r0] [e41t34r1] [e42t3r1] [e43t4r4] [e44t1r0] [e45t33r1] [e46t31r4] [e47t10r4] [e48t33r4] [e49t4r1] [e50t31r1] [e51t14r0] [e52t1r3] [e53t37r4] [e54t32r4] [e55t30r3] [e56t21r0] [e57t30r0] [e58t43r0] [e59t16r2] [e60t15r3] [e61t15r4] [e62t38r4] [e63t30r4] [e64t7r1] [e65t3r0] [e66t6r4] [e67t4r3] [e68t12r0] [e69t42r2] [e70t29r3] [e71t13r4] [e72t5r0] [e73t11r3] [e74t24r1] [e75t25r0] [e76t22r4] [e77t24r0] [e78t1r1] [e79t6r0] [e80t13r1] [e81t41r1] [e82t2r0] [e83t21r1] [e84t15r0] [e85t32r1] [e86t16r1] [e87t21r4] [e88t7r0] [e89t41r3] [e90t40r0] [e91t34r0] [e92t39r4] [e93t22r0] [e94t13r3] [e95t38r3] [e96t14r1] [e97t37r0] [e98t14r3] [e99t16r0] 
+end solution 29
+end try 29
+begin try 30
+best 53 time 0.484375
+best 50 time 0.781250
+best 46 time 1.531250
+best 45 time 2.171875
+best 37 time 5.781250
+best 36 time 8.093750
+best 35 time 10.750000
+best 32 time 11.968750
+best 29 time 13.421875
+best 28 time 18.437500
+best 27 time 25.828125
+best 26 time 35.546875
+best 23 time 56.609375
+best 22 time 60.750000
+best 21 time 60.921875
+best 20 time 68.453125
+begin solution 30
+feasible: evaluation function = 20
+[e0t19r4] [e1t19r0] [e2t37r1] [e3t38r4] [e4t41r0] [e5t29r4] [e6t23r3] [e7t30r4] [e8t29r2] [e9t29r1] [e10t22r3] [e11t3r3] [e12t5r2] [e13t39r3] [e14t3r4] [e15t3r0] [e16t4r4] [e17t13r4] [e18t11r4] [e19t12r3] [e20t21r0] [e21t38r0] [e22t21r3] [e23t5r4] [e24t31r2] [e25t41r4] [e26t21r2] [e27t7r3] [e28t22r0] [e29t28r0] [e30t40r0] [e31t2r0] [e32t2r4] [e33t38r2] [e34t25r0] [e35t20r4] [e36t30r0] [e37t2r3] [e38t25r1] [e39t6r4] [e40t33r2] [e41t1r0] [e42t31r1] [e43t22r4] [e44t4r0] [e45t19r1] [e46t24r4] [e47t10r4] [e48t1r4] [e49t41r1] [e50t20r1] [e51t43r0] [e52t4r3] [e53t14r4] [e54t40r4] [e55t38r3] [e56t34r0] [e57t37r0] [e58t4r2] [e59t20r2] [e60t32r3] [e61t6r3] [e62t31r4] [e63t37r3] [e64t23r1] [e65t31r0] [e66t28r4] [e67t30r3] [e68t41r3] [e69t40r2] [e70t37r4] [e71t42r4] [e72t32r0] [e73t13r0] [e74t14r0] [e75t20r0] [e76t23r4] [e77t5r0] [e78t40r1] [e79t31r3] [e80t11r0] [e81t12r0] [e82t29r0] [e83t5r1] [e84t39r2] [e85t21r1] [e86t1r1] [e87t32r4] [e88t24r2] [e89t12r4] [e90t23r0] [e91t7r0] [e92t21r4] [e93t33r0] [e94t39r4] [e95t15r3] [e96t41r2] [e97t39r0] [e98t24r0] [e99t33r1] 
+end solution 30
+end try 30

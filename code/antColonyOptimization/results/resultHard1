@@ -1,0 +1,35 @@
+begin try 1
+best 30006939 time 29.937500
+best 24006917 time 50.687500
+best 20006769 time 66.781250
+best 13006521 time 79.890625
+best 11006612 time 90.359375
+best 10006616 time 130.562500
+best 9006706 time 161.984375
+best 8006859 time 170.406250
+best 7006940 time 210.609375
+best 6006907 time 215.828125
+best 5006863 time 261.015625
+begin solution 1
+unfeasible: evaluation function = 5006863
+end solution 1
+end try 1
+begin try 2
+best 32007159 time 29.093750
+best 23007067 time 48.125000
+best 22007055 time 66.953125
+best 18007037 time 83.484375
+best 16007092 time 98.078125
+best 15006963 time 110.687500
+best 14007120 time 136.625000
+best 12006984 time 159.609375
+best 11006981 time 189.156250
+best 9007032 time 218.093750
+best 8007115 time 269.781250
+best 7007160 time 275.765625
+best 6007026 time 298.812500
+best 5007026 time 308.359375
+begin solution 2
+unfeasible: evaluation function = 5007026
+end solution 2
+end try 2

@@ -1,0 +1,126 @@
+Meta-heuristics Network - Node of Darmstadt - Course Timetabling
+problem - Simulated Annealing implementation - Marco Chiarandini
+
+USAGE:
+
+./timetabling.sa.de.1 -i [Input file name] -p [problem instance type]
+
+The command line parameter for the problem instance type -p 1 (easy),
+2 (medium), or 3 (hard) is required in order to allow the implementation to
+select the correct values for Simulated Annealing parameters according
+to the hardness of the instance
+
+Optional parameters otherwise set by default:
+
+-o [Output file name] -t [Time limit] -n [number of trials] -s [seed]  
+-p1 [probability of the moves of type 1 to be performed in the local search] -p2 [idem for moves of type 2] -p3 [idem for moves of type 3]
+
+All optional parameters left empty will be set by default and printed on the standard error buffer.
+
+The output is set by default to the standard output and it prints:
+- computing environment specific information
+- general framework information (if not set by default)
+- algorithm specific information (version, parameters used, etc.)
+- the number of each single run together with the complete final solution
+- solution quality and CPU-time corresponding to each time the algorithm finds a new best solution
+
+
+Modifications respect the code provided by the node of Edinbourgh were
+introduced on files Control.h and Control.cpp, basically for producing
+the output format required.
+
+Two new files has been added: SolutionSA.cpp, in order to contain the code
+for the Simulated Annealing technique which needed to be at same level
+of the LocalSearch method; and sa.cpp which contain the main() method.
+
+
+
+
+Original README file provided by the node of Edimbourgh.
+
+
+IMPORTANT: -p1, -p2, -p3, and -l are fixed to be respectively 1.0, 1.0, 0.0, and LARGE. This parameters cannot be changed in the first 
+phase for the implementation of your metaheuristics. Therefore they have been hard-coded in the definition of the local search function, 
+and you are not allowed to call the function with any of this parameters. The maximum number of steps allowed to the local search can be given 
+through the command line -m. 
+
+DOCUMENTATION:
+
+* General
+
+This set of C++ classes implements data structures and methods
+for handling problem instances and  solutions for the Timetabling Problem.
+It also implements moves in three neighborhoods and a local search.
+
+* Data Structures
+
+In this implementation, problem data and solution data are kept 
+separately. They will be discussed in the following sections.
+
+* Problem
+
+An instance of Problem defines an instance of a university timetabling problem.
+
+It contains:
+
+- studentNumber: a vector of integers, one for each event, containing the number of students attending to that event.
+- roomSize: a vector of integers, one for each room, containing the size of that room. 
+- student_events: a matrix that keeps information on student attendance to events.
+- eventCorrelations: a matrix of pre-processed data that keeps information on which events have students in common.
+- room_features: a matrix that keeps information on which features are satisfied by each room.
+- event_features: a matrix that keeps information on which features are required by each event.
+- possibleRooms: a matrix of pre-processed data to store the possible rooms for each event.
+
+A problem can be constructed by giving it an ifstream that points to the
+beginning of a problem instance.
+
+* class Solution
+
+A solution is simply a vector of pairs of integers, one for each event, representing the pair of timeslot and room assigned to that event.
+Once all the events have been assigned a timeslot, the rooms are also assigned deterministically via a matching algorithm. 
+A map from timeslot to vectors of events is also kept to access easily which events are in each timeslot.
+
+The following function are implemented:
+- assign rooms to events for a given timeslot ( by means of a matching algorithm based on a deterministic 
+network flow algorithm)
+- build a random initial solution
+- compute feasibility of the solution
+- compute hard and soft constraint violation
+- apply a move of type 1, 2, or 3 to a solution
+- apply a random move (of type 1, 2, or 3)
+- apply local search with given parameters
+
+* Fitness function
+
+There is not explicit fitness function provided in the library. However there are three functions, one to check fesibility, one to compute hcvs, 
+and one to compute scvs. 
+
+IMPORTANT: In the first phase all metaheuristics have to use the same fitness function. That will be: check feasibility; if both solutions are feasible compare scvs;
+ if both ones are unfeasible compare hcvs; otherwise if one solution is feasible and the other one is not the best one is the feasible solution. 
+
+* Local Search
+
+The function local search is part of class Solution. It takes 5 parameters:
+- a maximum number of steps
+- a time limit
+- a probability to be performed for moves of type 1
+- "       "             "            "        "   2
+- "       "             "            "        "   3
+It considers in order moves of type 1, 2, 3, each with some probability given as parameter,
+for every event involved in constraint violations. Initially it ignores soft constraint violations,
+then, if the timetable reaches feasibility, they are considered as well, but without ever 
+allowing to reintroduce any hard constraint violation. For each potential move re-apply the matching 
+algorithm to the affected timeslots and delta-evaluate the result. The local search is ended if no 
+improvement is found after trying all possible moves on each event of the timetable, or if a time limit
+is reached.
+You are allowed to call this function only with the parameter maxSteps, the other ones are hard coded in the signature of the function.  
+
+* Test program ILS
+
+A program of a very basic version of ILS is provided as an example on how the library can be used. It was our test program to select 
+parameters and instances.
+
+* Random number generator
+
+The random number generator has been changed from the previous version given out. 
+Now it uses the class Random taken from numerical recipes in C. 

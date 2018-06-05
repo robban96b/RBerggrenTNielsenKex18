@@ -1,0 +1,24 @@
+begin try 1
+best 21001578 time 28.531250
+best 13001694 time 40.828125
+best 11001602 time 50.359375
+best 9001612 time 59.984375
+best 5001675 time 80.750000
+best 4001693 time 86.609375
+best 3001697 time 100.140625
+best 2001699 time 139.390625
+begin solution 1
+unfeasible: evaluation function = 2001699
+end solution 1
+end try 1
+begin try 2
+best 23001655 time 26.343750
+best 13001725 time 40.421875
+best 9001680 time 50.078125
+best 7001665 time 64.984375
+best 6001717 time 71.265625
+best 3001715 time 98.890625
+begin solution 2
+unfeasible: evaluation function = 3001715
+end solution 2
+end try 2
